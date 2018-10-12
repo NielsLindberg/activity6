@@ -1,0 +1,1001 @@
+Gender,Age,Chest Pain,Genereal level of tiredness,"Pulse, resting",Blood Type,Heart disease mom/dad,Smoking,Cholesterol,Alcohol,BMI,Fitness,Use of contact lenses,Diabetes,Hæmatokritværdi,EKG,Go to doctor
+M,4,Periodic,4,59,0 pos,N,0,1,6,22,121,N,Healthy,38,Anormalities,NO
+M,6,Often,8,80,0 pos,N,0,6,10,35,118,Y,Type 1,39,Anormalities,OBS
+F,15,Periodic,0,67,B pos,Y,4,1,0,22,154,N,Healthy,41,Normal,NO
+M,15,Often,10,69,B pos,Y,6,1,0,22,150,N,Healthy,40,Anormalities,NO
+F,17,None,1,72,B pos,N,7,1,6,22,124,N,Healthy,42,Anormalities,NO
+M,17,Periodic,7,67,A pos,N,3,1,7,21,106,N,Type 2,39,Normal,NO
+F,18,Periodic,0,65,0 pos,N,7,1,3,39,178,Y,Healthy,44,Anormalities,NO
+F,20,None,1,71,B pos,Y,1,1,6,38,144,Y,Type 2,42,Anormalities,OBS
+F,20,Periodic,10,63,A pos,Y,0,1,4,22,115,N,Healthy,37,Normal,NO
+M,21,None,2,64,A pos,N,4,2,10,23,106,N,Healthy,41,Anormalities,NO
+M,21,Periodic,0,72,0 pos,Y,0,1,9,21,122,N,Healthy,37,Normal,NO
+M,21,Often,2,62,A pos,Y,6,1,0,37,143,Y,Healthy,40,Normal,NO
+F,22,Often,0,62,A pos,N,10,1,10,21,123,N,Type 2,38,Normal,NO
+F,22,Often,6,68,B pos,N,1,1,8,23,113,N,Healthy,40,Normal,NO
+F,22,None,0,59,A pos,Y,0,2,1,22,137,N,Type 2,41,Normal,NO
+F,23,Periodic,0,60,B pos,N,0,2,10,38,156,Y,Type 1,40,Normal,OBS
+F,24,Often,4,60,B pos,Y,1,1,4,24,133,N,Healthy,44,Anormalities,NO
+F,24,Often,1,70,0 pos,N,0,1,6,29,160,Y,Type 2,39,Anormalities,OBS
+M,24,None,10,70,A pos,Y,0,1,0,42,133,Y,Type 1,38,Normal,NO
+F,25,Periodic,6,63,0 pos,N,2,1,6,26,128,Y,Type 2,40,Anormalities,OBS
+M,25,Often,10,62,A pos,N,0,1,5,22,114,N,Healthy,43,Anormalities,NO
+M,26,None,10,66,A pos,N,4,1,4,25,157,Y,Type 1,40,Anormalities,OBS
+F,26,None,5,71,B pos,N,0,3,4,38,113,Y,Type 1,39,Anormalities,OBS
+F,26,Often,5,72,B pos,Y,0,1,5,27,155,Y,Type 1,41,Normal,YES
+M,26,None,9,65,B pos,N,0,2,0,27,115,Y,Type 2,42,Normal,NO
+F,26,None,7,66,B pos,N,4,3,8,29,135,Y,Healthy,40,Normal,NO
+M,27,Often,8,63,A pos,Y,0,1,5,20,144,N,Type 1,39,Normal,NO
+M,27,Often,6,68,A pos,N,0,1,8,23,145,N,Healthy,40,Normal,NO
+M,27,None,1,65,A pos,Y,0,2,6,23,119,N,Healthy,38,Anormalities,NO
+F,27,None,4,63,B pos,Y,0,1,10,28,137,N,Healthy,40,Normal,NO
+M,27,None,10,77,A pos,Y,3,1,4,31,137,Y,Type 1,41,Anormalities,OBS
+F,27,None,9,62,A pos,N,5,1,3,35,140,Y,Type 1,44,Anormalities,OBS
+M,27,Often,10,63,0 pos,Y,0,1,1,21,106,Y,Healthy,41,Anormalities,NO
+F,27,Often,6,69,A pos,N,0,6,9,30,196,Y,Type 1,40,Normal,NO
+M,28,Often,5,70,B pos,N,0,1,4,24,205,N,Healthy,40,Normal,NO
+M,28,None,1,65,B pos,N,0,1,7,28,117,N,Healthy,43,Normal,NO
+F,28,Often,9,71,A pos,N,10,2,0,21,126,N,Healthy,41,Normal,NO
+F,28,Periodic,10,70,A pos,Y,7,1,10,24,109,N,Healthy,41,Normal,NO
+F,28,Periodic,10,66,0 pos,N,3,1,4,22,110,N,Healthy,39,Normal,NO
+F,28,Often,2,71,B pos,N,6,1,10,20,133,N,Healthy,40,Normal,NO
+M,28,Often,6,66,B pos,Y,0,1,10,26,121,N,Healthy,44,Normal,NO
+M,28,Often,7,62,B pos,N,0,1,2,24,209,N,Healthy,41,Normal,NO
+F,28,Often,5,68,B pos,Y,0,1,10,24,143,N,Healthy,40,Normal,NO
+M,28,Often,6,67,B pos,Y,0,1,6,26,139,N,Healthy,38,Normal,NO
+M,28,Often,4,57,B pos,Y,0,5,9,30,144,Y,Type 1,37,Anormalities,OBS
+M,28,None,10,62,0 pos,N,1,1,5,27,154,Y,Healthy,39,Normal,NO
+F,28,Often,3,63,0 pos,N,1,1,4,40,123,Y,Type 1,37,Normal,NO
+M,28,Often,0,66,A pos,Y,2,6,1,35,107,Y,Healthy,42,Anormalities,NO
+M,28,Often,8,68,0 pos,Y,4,1,4,37,128,Y,Healthy,37,Anormalities,NO
+M,28,Periodic,9,58,B pos,Y,4,6,4,32,117,Y,Type 2,38,Normal,OBS
+F,29,Periodic,2,64,B pos,N,0,1,6,25,140,N,Healthy,39,Normal,NO
+F,29,None,7,61,A pos,N,0,1,0,27,161,N,Healthy,41,Normal,NO
+M,29,Periodic,10,62,B pos,N,3,1,4,20,120,N,Healthy,38,Normal,NO
+F,29,Periodic,5,67,A pos,Y,5,1,6,21,133,N,Healthy,41,Normal,NO
+F,29,None,2,70,0 pos,Y,0,1,4,25,140,N,Healthy,42,Normal,NO
+M,29,None,10,58,0 pos,N,0,1,3,24,144,N,Healthy,39,Normal,NO
+F,29,None,2,63,B pos,Y,0,6,7,36,122,Y,Type 2,38,Anormalities,OBS
+F,29,Periodic,0,60,B pos,Y,0,1,6,26,128,Y,Type 1,42,Anormalities,OBS
+F,29,Often,10,65,A pos,N,6,1,3,28,147,Y,Type 2,37,Normal,NO
+M,29,Often,1,56,B pos,Y,0,1,1,23,103,Y,Type 2,42,Normal,YES
+M,29,None,10,56,B pos,N,0,1,9,32,108,Y,Type 1,37,Normal,OBS
+F,29,Periodic,1,68,A pos,N,2,3,6,29,129,Y,Type 2,39,Normal,OBS
+F,30,Often,8,76,B pos,N,0,1,3,24,132,N,Healthy,40,Normal,NO
+M,30,Often,7,64,A pos,N,0,1,6,23,134,N,Healthy,40,Normal,NO
+M,30,None,2,62,B pos,N,0,1,9,21,121,N,Healthy,39,Normal,NO
+M,30,Periodic,0,69,A pos,N,2,1,10,23,141,N,Healthy,42,Normal,NO
+F,30,None,10,69,A pos,N,0,1,0,25,130,N,Type 2,38,Normal,NO
+F,30,None,9,66,B pos,N,0,1,1,24,137,Y,Healthy,43,Normal,NO
+F,30,None,9,68,A pos,N,0,1,8,32,124,Y,Type 1,39,Normal,NO
+F,30,None,10,66,A pos,Y,10,1,3,28,141,Y,Healthy,37,Anormalities,NO
+M,30,None,6,69,A pos,N,0,6,7,26,137,Y,Type 2,38,Anormalities,OBS
+M,30,Often,4,72,A pos,N,2,3,0,27,121,Y,Type 2,40,Normal,NO
+M,30,None,2,60,A pos,N,3,5,3,25,132,Y,Healthy,39,Normal,NO
+F,30,Often,10,61,0 pos,Y,0,1,6,22,109,Y,Type 2,41,Normal,NO
+M,30,Periodic,0,66,B pos,N,0,5,7,35,128,Y,Healthy,41,Anormalities,NO
+M,30,Often,1,70,0 pos,Y,5,2,10,28,142,Y,Healthy,38,Anormalities,NO
+M,30,Often,6,62,B pos,Y,0,4,0,27,126,Y,Healthy,39,Normal,NO
+F,30,Periodic,6,63,A pos,Y,0,1,6,32,138,Y,Healthy,37,Anormalities,NO
+F,30,Periodic,10,62,B pos,Y,5,6,4,34,135,Y,Type 1,40,Normal,YES
+F,30,Periodic,10,64,0 pos,Y,5,1,8,31,136,Y,Type 1,41,Normal,OBS
+F,30,Periodic,10,60,B pos,Y,0,1,3,36,129,Y,Type 2,42,Normal,OBS
+M,30,Periodic,3,58,0 pos,N,0,1,6,30,117,Y,Type 1,40,Normal,OBS
+M,31,None,3,69,0 pos,Y,0,1,8,25,131,N,Healthy,39,Anormalities,OBS
+M,31,None,0,67,B pos,Y,4,1,3,23,106,Y,Healthy,41,Anormalities,OBS
+F,31,None,8,67,A pos,Y,6,1,1,27,128,N,Type 2,38,Normal,NO
+M,31,None,5,65,0 pos,N,0,1,1,26,109,N,Healthy,39,Anormalities,OBS
+M,31,None,10,65,0 pos,N,0,1,4,41,119,Y,Type 1,43,Normal,NO
+M,31,None,5,65,B pos,N,2,4,9,29,140,Y,Type 2,41,Anormalities,YES
+M,31,Often,0,65,B pos,Y,0,1,6,20,129,N,Healthy,37,Normal,NO
+F,31,Often,0,71,0 pos,N,0,1,2,23,121,N,Healthy,39,Normal,NO
+F,31,Often,9,64,A pos,N,3,1,10,19,128,N,Type 2,41,Anormalities,NO
+M,31,Often,10,69,B pos,Y,2,1,3,20,140,Y,Type 2,42,Normal,YES
+M,31,Periodic,7,66,0 pos,N,0,2,4,22,94,Y,Type 1,42,Anormalities,OBS
+F,31,Often,3,66,A pos,N,3,1,0,34,158,Y,Type 2,41,Anormalities,OBS
+F,31,Periodic,5,64,A pos,N,0,1,10,24,122,N,Healthy,38,Normal,NO
+M,31,Periodic,0,74,B pos,Y,10,1,4,20,120,N,Healthy,37,Normal,NO
+M,31,Periodic,1,70,A pos,N,6,2,10,23,158,N,Healthy,39,Normal,NO
+M,31,Periodic,2,70,0 pos,Y,1,1,2,26,143,N,Healthy,39,Normal,NO
+M,32,None,2,70,A pos,Y,0,1,10,36,119,Y,Type 1,40,Anormalities,OBS
+F,32,None,10,72,B pos,N,0,1,4,21,132,N,Healthy,42,Normal,NO
+F,32,Often,4,67,B pos,Y,1,1,10,31,146,Y,Type 2,42,Anormalities,OBS
+F,32,Periodic,6,67,0 pos,Y,3,3,4,23,119,Y,Healthy,38,Anormalities,OBS
+F,32,Periodic,8,57,B pos,Y,0,6,4,34,84,Y,Type 1,37,Anormalities,OBS
+F,32,Often,10,58,0 pos,Y,2,1,0,23,143,N,Healthy,40,Normal,NO
+F,32,Often,5,63,B pos,N,3,2,0,37,111,Y,Type 1,37,Anormalities,YES
+F,32,Periodic,9,65,B pos,Y,0,1,5,21,131,N,Healthy,43,Normal,NO
+F,32,Periodic,8,65,B pos,Y,1,1,2,23,173,N,Healthy,40,Normal,YES
+M,32,Periodic,4,60,B pos,N,0,1,8,26,149,Y,Healthy,40,Normal,YES
+M,32,Periodic,3,66,B pos,Y,0,1,9,30,155,Y,Type 2,38,Normal,YES
+F,33,Periodic,4,67,A pos,Y,0,1,3,23,139,N,Healthy,41,Anormalities,OBS
+F,33,None,8,68,0 pos,N,0,1,3,24,134,N,Healthy,42,Normal,NO
+F,33,Periodic,6,68,B pos,Y,0,2,3,30,115,Y,Type 1,37,Anormalities,OBS
+M,33,None,7,70,0 pos,Y,0,1,2,23,165,N,Healthy,37,Normal,NO
+M,33,None,8,61,0 pos,N,0,1,2,24,127,N,Healthy,42,Normal,NO
+M,33,None,8,63,B pos,Y,4,1,3,20,141,N,Healthy,42,Normal,NO
+F,33,Often,6,61,0 pos,N,9,1,7,24,127,N,Healthy,39,Normal,NO
+M,33,Often,0,65,B pos,N,0,1,7,25,129,N,Type 2,41,Normal,NO
+F,33,Often,10,63,B pos,N,5,1,9,23,153,N,Healthy,37,Normal,NO
+F,33,Often,10,56,A pos,Y,0,1,1,27,118,N,Healthy,37,Normal,NO
+M,33,Often,10,63,0 pos,Y,0,1,2,24,136,N,Healthy,37,Normal,NO
+M,33,Often,0,66,0 pos,N,0,2,10,27,130,Y,Healthy,39,Normal,NO
+F,33,Often,0,65,A pos,Y,8,5,1,29,96,Y,Healthy,41,Normal,NO
+F,33,Often,9,60,A pos,N,0,6,9,33,108,Y,Healthy,41,Anormalities,NO
+M,33,Periodic,0,69,B pos,N,5,1,7,21,160,N,Healthy,41,Normal,NO
+M,33,Periodic,1,62,B pos,Y,1,2,4,22,113,N,Healthy,39,Normal,NO
+M,33,Periodic,0,57,0 pos,N,6,1,9,24,154,N,Healthy,38,Normal,OBS
+M,33,Periodic,3,64,0 pos,Y,6,2,1,24,123,N,Healthy,40,Normal,NO
+M,33,Periodic,0,61,0 pos,Y,1,2,7,22,204,N,Healthy,40,Normal,NO
+M,33,Periodic,0,66,A pos,N,0,1,4,26,91,Y,Type 2,40,Normal,OBS
+M,33,Periodic,9,68,A pos,Y,2,1,6,31,106,Y,Type 1,40,Normal,OBS
+F,34,None,7,65,0 pos,N,2,1,7,23,121,N,Healthy,39,Normal,NO
+F,34,None,9,75,A pos,N,1,1,7,22,163,N,Healthy,37,Anormalities,OBS
+M,34,None,9,66,0 pos,Y,7,1,0,21,150,N,Healthy,40,Normal,NO
+M,34,None,6,63,0 pos,N,7,2,2,24,207,N,Type 2,39,Normal,NO
+M,34,None,10,65,A pos,N,3,1,0,24,122,N,Healthy,43,Anormalities,OBS
+M,34,None,5,71,B pos,Y,3,1,3,23,120,N,Healthy,39,Anormalities,OBS
+M,34,None,5,63,B pos,Y,0,1,6,27,143,Y,Healthy,39,Anormalities,OBS
+M,34,Periodic,4,62,B pos,Y,0,2,6,23,119,Y,Healthy,43,Anormalities,YES
+F,34,Periodic,5,66,A pos,Y,4,6,1,34,92,Y,Type 2,40,Anormalities,YES
+M,34,Periodic,8,58,A pos,Y,0,2,6,23,102,Y,Type 1,38,Anormalities,OBS
+M,34,Periodic,1,65,B pos,Y,0,1,4,27,121,Y,Type 2,37,Anormalities,OBS
+M,34,None,10,69,B pos,N,0,6,6,35,116,Y,Type 2,40,Normal,NO
+F,34,None,10,63,B pos,Y,0,2,2,34,94,Y,Type 2,41,Normal,NO
+F,34,Often,4,60,B pos,N,0,1,1,21,114,N,Healthy,43,Normal,NO
+F,34,Often,10,65,0 pos,Y,3,1,7,22,130,N,Type 2,37,Normal,NO
+M,34,Often,0,72,A pos,Y,0,1,4,23,163,N,Healthy,41,Normal,NO
+F,34,Periodic,1,60,0 pos,N,0,1,4,22,132,N,Healthy,39,Normal,NO
+M,34,Periodic,0,65,B pos,N,0,1,1,26,134,N,Healthy,38,Normal,NO
+M,34,Periodic,6,73,B pos,N,0,1,10,22,108,N,Healthy,40,Normal,NO
+F,34,Periodic,4,65,0 pos,N,7,2,3,24,133,N,Type 1,38,Normal,NO
+M,35,None,1,76,0 pos,Y,0,2,3,23,130,N,Healthy,38,Normal,NO
+F,35,None,0,55,0 pos,Y,0,2,0,22,128,N,Healthy,40,Normal,NO
+M,35,None,10,66,B pos,N,5,1,10,21,123,N,Healthy,39,Normal,NO
+M,35,None,9,62,0 pos,N,0,1,4,23,160,N,Healthy,37,Normal,NO
+F,35,Often,7,62,B pos,Y,0,4,5,27,147,Y,Type 1,40,Anormalities,YES
+M,35,Often,4,65,0 pos,Y,8,1,7,38,94,Y,Type 1,41,Anormalities,YES
+F,35,Periodic,8,71,B pos,Y,0,1,3,21,130,N,Healthy,43,Anormalities,YES
+M,35,Periodic,4,66,0 pos,Y,2,1,7,25,118,Y,Type 1,41,Anormalities,YES
+M,35,None,6,56,A pos,N,6,1,1,22,123,Y,Healthy,41,Normal,NO
+F,35,None,0,72,B pos,N,5,5,5,35,150,Y,Healthy,39,Normal,NO
+M,35,None,0,73,B pos,Y,3,1,10,25,114,Y,Healthy,40,Normal,NO
+F,35,None,1,65,A pos,Y,1,1,3,32,105,Y,Type 1,43,Normal,NO
+M,35,None,7,67,0 pos,N,8,1,10,42,158,Y,Type 1,40,Normal,NO
+M,35,Often,1,58,0 pos,N,0,1,1,26,106,N,Healthy,39,Normal,NO
+F,35,Often,3,64,B pos,Y,0,1,5,22,148,N,Healthy,39,Normal,NO
+F,35,Often,10,61,A pos,Y,8,1,10,24,146,N,Healthy,40,Normal,NO
+M,35,Often,8,66,A pos,Y,0,6,3,30,136,Y,Type 1,39,Normal,YES
+F,35,Often,5,65,B pos,Y,2,1,9,28,139,Y,Healthy,38,Normal,NO
+F,35,Often,0,55,0 pos,Y,0,6,2,38,125,Y,Type 2,43,Normal,NO
+M,35,Periodic,0,72,A pos,Y,1,1,4,23,129,N,Healthy,40,Normal,NO
+M,35,Periodic,10,71,B pos,N,0,1,8,21,117,N,Healthy,40,Normal,NO
+M,35,Periodic,10,72,0 pos,Y,8,1,4,21,151,N,Healthy,41,Normal,NO
+F,36,None,7,62,0 pos,N,2,2,2,24,129,N,Healthy,42,Normal,NO
+F,36,None,2,73,0 pos,Y,0,1,10,24,115,N,Healthy,39,Normal,NO
+F,36,None,8,71,A pos,N,7,1,0,22,129,N,Healthy,39,Normal,NO
+M,36,None,9,71,B pos,N,0,1,9,22,129,N,Healthy,44,Normal,NO
+M,36,Often,6,68,0 pos,Y,0,3,2,26,115,Y,Type 1,40,Anormalities,YES
+M,36,None,0,58,0 pos,N,0,6,7,34,115,Y,Type 2,39,Normal,NO
+M,36,Often,4,62,A pos,Y,0,1,10,22,157,N,Healthy,40,Normal,YES
+M,36,Often,0,69,0 pos,Y,0,1,7,19,208,N,Healthy,39,Normal,NO
+F,36,Often,5,60,A pos,N,2,1,1,23,135,N,Healthy,39,Normal,NO
+F,36,Often,2,70,B pos,N,0,1,4,21,172,N,Healthy,37,Normal,YES
+M,36,Often,10,53,0 pos,N,1,2,5,23,103,N,Healthy,40,Normal,NO
+M,36,Often,10,68,B pos,N,2,5,8,34,98,Y,Healthy,39,Normal,YES
+F,36,Periodic,0,65,A pos,N,4,1,8,30,111,Y,Type 1,41,Anormalities,OBS
+M,36,Often,8,65,0 pos,N,0,6,4,31,85,Y,Healthy,38,Anormalities,NO
+F,36,Often,8,64,B pos,N,0,1,0,20,95,Y,Healthy,39,Normal,NO
+F,36,Often,6,56,A pos,N,5,1,6,29,148,Y,Healthy,41,Anormalities,YES
+F,36,Periodic,2,61,A pos,N,0,1,5,23,132,N,Healthy,37,Normal,NO
+M,36,Periodic,0,61,A pos,N,0,2,0,22,131,N,Healthy,40,Anormalities,NO
+F,36,Periodic,10,65,A pos,Y,0,1,7,23,142,N,Healthy,37,Normal,NO
+F,36,Periodic,3,58,A pos,Y,4,6,7,26,149,Y,Type 1,41,Normal,YES
+F,36,Periodic,5,59,B pos,N,0,1,5,30,122,Y,Type 2,37,Normal,YES
+F,37,None,0,62,A pos,N,0,1,8,21,115,N,Type 1,43,Normal,NO
+M,37,None,0,64,B pos,Y,2,1,7,25,143,N,Healthy,39,Anormalities,YES
+F,37,Often,0,50,B pos,Y,7,3,3,29,125,Y,Healthy,39,Anormalities,YES
+M,37,Periodic,4,69,B pos,Y,2,1,4,31,132,Y,Healthy,39,Anormalities,YES
+M,37,None,5,72,0 pos,Y,0,6,2,25,130,Y,Type 2,39,Normal,NO
+M,37,None,4,62,0 pos,N,0,4,10,28,152,Y,Type 1,40,Normal,NO
+M,37,Often,1,71,A pos,N,0,1,5,24,117,N,Type 1,41,Normal,YES
+F,37,Often,3,69,A pos,N,2,1,4,18,118,N,Type 2,38,Normal,NO
+M,37,Often,9,64,0 pos,Y,0,1,2,24,128,N,Healthy,40,Normal,NO
+F,37,Often,6,69,0 pos,N,3,1,0,34,153,Y,Type 2,42,Normal,NO
+M,37,Often,10,67,A pos,N,4,1,0,25,88,Y,Type 1,38,Normal,NO
+M,37,Often,0,66,A pos,Y,0,1,4,35,159,Y,Type 1,40,Normal,YES
+F,37,Often,8,64,0 pos,N,1,1,3,24,138,Y,Healthy,42,Normal,NO
+F,37,Often,1,63,A pos,N,0,1,2,27,101,Y,Healthy,39,Normal,NO
+M,37,Periodic,9,61,B pos,N,1,1,4,24,126,N,Healthy,40,Normal,NO
+F,37,Periodic,8,63,A pos,N,0,1,8,18,185,N,Healthy,39,Anormalities,NO
+F,37,Periodic,8,76,0 pos,N,0,1,5,21,100,Y,Healthy,41,Normal,YES
+M,37,Periodic,6,62,B pos,N,0,1,6,19,141,Y,Healthy,39,Normal,NO
+F,37,Periodic,0,64,A pos,Y,0,1,5,24,121,N,Type 1,39,Normal,YES
+M,37,Periodic,0,66,B pos,N,2,6,6,37,158,Y,Type 1,41,Normal,YES
+M,37,Periodic,5,60,B pos,N,10,1,5,35,155,Y,Healthy,41,Normal,NO
+F,37,Periodic,0,60,A pos,N,1,1,4,27,136,Y,Type 2,37,Normal,YES
+F,38,None,1,67,B pos,N,0,1,6,23,123,N,Healthy,37,Normal,NO
+F,38,None,3,63,B pos,N,0,2,3,25,144,N,Healthy,39,Normal,NO
+F,38,None,5,64,B pos,Y,5,1,5,29,135,Y,Type 2,38,Normal,NO
+M,38,Often,10,67,B pos,Y,4,3,6,30,161,Y,Healthy,40,Anormalities,YES
+M,38,None,5,56,0 pos,Y,2,1,7,34,152,Y,Type 1,42,Normal,NO
+M,38,Periodic,10,58,B pos,Y,2,1,10,23,134,N,Type 2,43,Anormalities,YES
+F,38,Periodic,3,61,A pos,Y,2,1,9,28,173,Y,Type 1,43,Anormalities,YES
+F,38,None,2,58,A pos,N,5,6,10,25,115,Y,Healthy,41,Anormalities,OBS
+F,38,None,4,64,0 pos,Y,6,4,6,42,153,Y,Type 2,42,Normal,NO
+F,38,None,2,62,0 pos,Y,5,3,2,30,141,Y,Type 2,38,Normal,NO
+M,38,Often,3,67,0 pos,Y,0,1,4,21,106,N,Healthy,39,Normal,NO
+F,38,Often,1,65,0 pos,N,0,1,10,25,120,N,Healthy,39,Normal,NO
+M,38,Often,10,63,0 pos,Y,0,1,5,24,111,N,Type 1,39,Normal,NO
+M,38,Often,7,56,0 pos,Y,0,1,6,25,141,N,Healthy,38,Normal,NO
+M,38,Often,0,63,0 pos,N,3,1,10,22,126,N,Healthy,39,Normal,NO
+M,38,Often,9,61,A pos,Y,2,1,9,27,145,Y,Type 2,39,Normal,YES
+F,38,None,4,61,B pos,N,0,2,0,24,137,Y,Type 2,40,Anormalities,OBS
+F,38,Often,6,60,B pos,N,0,5,6,29,158,Y,Type 2,40,Anormalities,OBS
+F,38,Often,8,65,0 pos,N,0,1,1,31,178,Y,Healthy,41,Anormalities,YES
+F,38,Periodic,10,71,0 pos,Y,0,1,7,24,125,N,Healthy,44,Normal,OBS
+M,38,Periodic,5,64,A pos,Y,7,1,1,24,141,N,Healthy,40,Normal,YES
+F,38,Periodic,2,66,B pos,N,3,1,1,23,130,N,Healthy,38,Normal,NO
+F,38,Periodic,3,65,0 pos,N,0,1,10,25,116,N,Healthy,39,Normal,NO
+M,38,Periodic,10,71,B pos,N,0,1,9,21,201,N,Healthy,38,Normal,NO
+M,38,Periodic,10,60,B pos,N,16,1,6,19,130,N,Healthy,40,Normal,NO
+F,38,Periodic,0,64,A pos,Y,0,1,6,28,141,Y,Healthy,40,Normal,NO
+F,38,Periodic,9,63,B pos,Y,0,5,6,28,115,Y,Type 1,39,Normal,OBS
+F,38,Periodic,5,67,B pos,N,4,5,6,26,105,Y,Type 2,41,Anormalities,YES
+M,38,Periodic,10,74,0 pos,Y,0,6,3,24,153,Y,Healthy,40,Normal,NO
+M,39,None,6,76,0 pos,N,0,1,4,23,101,N,Healthy,40,Normal,OBS
+M,39,None,9,67,0 pos,Y,0,1,8,23,156,N,Healthy,40,Normal,NO
+F,39,None,1,70,A pos,N,0,1,5,21,178,N,Healthy,39,Normal,NO
+M,39,None,10,58,B pos,N,2,6,6,34,122,Y,Type 2,42,Anormalities,YES
+F,39,None,6,67,A pos,N,0,4,8,28,128,Y,Healthy,40,Anormalities,YES
+F,39,None,10,74,A pos,Y,0,1,8,35,114,Y,Healthy,43,Anormalities,YES
+F,39,None,0,67,0 pos,Y,9,2,3,41,128,Y,Type 2,41,Anormalities,YES
+F,39,None,2,65,0 pos,Y,2,6,1,24,145,Y,Type 2,41,Anormalities,YES
+M,39,Often,1,71,0 pos,Y,2,1,7,22,141,N,Type 2,43,Anormalities,YES
+F,39,Often,7,72,0 pos,Y,1,1,7,24,200,N,Healthy,44,Anormalities,YES
+F,39,Periodic,10,60,B pos,Y,3,6,10,36,95,Y,Healthy,41,Anormalities,OBS
+M,39,Periodic,10,62,0 pos,Y,3,6,7,30,129,Y,Type 1,40,Anormalities,YES
+M,39,None,10,61,A pos,N,0,5,0,28,120,Y,Type 1,41,Normal,NO
+F,39,None,6,59,A pos,Y,2,1,0,27,132,Y,Healthy,42,Normal,NO
+M,39,Often,4,66,0 pos,Y,0,1,6,24,141,N,Healthy,41,Normal,NO
+M,39,Often,10,62,0 pos,N,4,1,2,21,123,N,Healthy,39,Anormalities,NO
+F,39,Often,0,60,B pos,N,1,1,10,19,170,N,Healthy,37,Normal,NO
+F,39,Often,5,70,0 pos,N,0,1,7,22,141,N,Healthy,39,Anormalities,NO
+M,39,Often,10,59,A pos,N,0,1,9,22,152,N,Healthy,41,Normal,NO
+M,39,Often,0,67,0 pos,N,0,1,8,23,125,N,Healthy,39,Normal,NO
+M,39,Often,6,68,B pos,N,1,1,7,29,151,Y,Type 2,43,Normal,NO
+F,39,Often,0,62,A pos,Y,1,3,8,23,146,Y,Type 1,37,Normal,YES
+F,39,Often,10,63,A pos,N,3,1,7,24,102,Y,Healthy,39,Anormalities,NO
+M,39,Often,10,64,A pos,Y,1,1,2,27,148,Y,Type 2,39,Normal,YES
+M,39,Often,10,67,0 pos,Y,2,1,10,30,115,Y,Type 2,42,Normal,NO
+F,39,Often,10,58,B pos,N,0,1,5,22,146,Y,Healthy,41,Normal,OBS
+M,39,Often,0,65,0 pos,N,0,1,0,28,121,Y,Healthy,42,Anormalities,NO
+F,39,Often,0,64,0 pos,N,2,4,9,33,127,Y,Healthy,38,Anormalities,NO
+M,39,Often,10,69,B pos,Y,0,6,4,26,162,Y,Healthy,38,Normal,YES
+M,39,Often,0,65,B pos,N,7,6,3,34,115,Y,Healthy,39,Anormalities,OBS
+M,39,Often,9,58,B pos,Y,0,6,2,33,109,Y,Healthy,37,Normal,NO
+F,39,Periodic,9,60,0 pos,N,8,1,0,26,124,N,Healthy,41,Normal,NO
+F,39,Periodic,8,60,B pos,Y,0,1,7,26,149,N,Healthy,39,Normal,NO
+F,39,Periodic,3,61,B pos,N,6,1,4,26,117,Y,Healthy,40,Normal,NO
+M,39,Periodic,3,66,A pos,Y,2,1,8,35,149,Y,Healthy,41,Normal,OBS
+F,39,Periodic,1,57,0 pos,N,0,4,3,29,131,Y,Type 1,41,Normal,OBS
+F,39,Periodic,5,66,0 pos,Y,5,1,2,27,119,Y,Type 1,40,Normal,OBS
+F,39,Periodic,10,65,B pos,Y,1,1,9,29,117,Y,Type 1,41,Normal,OBS
+F,40,None,0,61,A pos,N,7,1,8,25,124,N,Healthy,37,Anormalities,OBS
+M,40,None,6,72,A pos,Y,0,1,7,21,144,N,Healthy,37,Normal,NO
+F,40,None,5,66,A pos,Y,5,1,8,26,130,N,Healthy,39,Normal,NO
+M,40,None,5,63,0 pos,Y,5,1,3,18,114,N,Healthy,43,Normal,NO
+F,40,None,8,69,A pos,N,0,1,1,35,80,Y,Healthy,42,Anormalities,YES
+M,40,None,5,63,0 pos,N,0,4,6,43,120,Y,Type 2,40,Anormalities,YES
+F,40,Often,5,53,0 pos,Y,0,1,1,32,172,Y,Healthy,37,Anormalities,OBS
+M,40,None,4,61,A pos,N,0,6,10,36,109,Y,Type 1,37,Anormalities,YES
+M,40,Often,0,68,0 pos,Y,0,6,0,27,133,Y,Healthy,39,Anormalities,YES
+M,40,Periodic,3,57,A pos,Y,0,1,5,22,143,N,Healthy,40,Anormalities,YES
+M,40,Periodic,8,67,0 pos,Y,5,3,6,35,108,Y,Healthy,41,Anormalities,YES
+M,40,Periodic,0,62,B pos,Y,2,1,7,36,144,Y,Type 1,42,Anormalities,YES
+F,40,Periodic,6,66,B pos,Y,2,1,4,31,109,Y,Type 1,40,Anormalities,YES
+F,40,None,0,61,A pos,N,0,1,7,28,121,Y,Healthy,37,Anormalities,NO
+F,40,Often,3,64,A pos,N,4,1,5,22,131,N,Healthy,41,Normal,NO
+M,40,Often,10,65,A pos,Y,0,1,5,22,117,N,Healthy,37,Normal,NO
+F,40,Often,3,61,A pos,N,0,1,5,22,158,N,Type 1,39,Normal,NO
+M,40,Often,4,73,A pos,Y,0,1,8,20,200,N,Healthy,40,Normal,NO
+F,40,Often,6,66,B pos,N,6,1,3,18,115,N,Healthy,39,Normal,NO
+M,40,Often,8,68,B pos,N,0,1,7,25,120,N,Healthy,42,Anormalities,NO
+M,40,Often,1,71,B pos,Y,0,1,6,25,162,Y,Type 1,39,Normal,YES
+F,40,Often,4,62,0 pos,N,0,6,3,25,147,Y,Type 2,43,Normal,YES
+F,40,Often,2,68,0 pos,N,0,1,0,23,126,Y,Type 2,40,Anormalities,OBS
+F,40,Often,10,62,B pos,N,2,5,9,27,90,Y,Type 1,42,Anormalities,OBS
+M,40,Often,10,68,0 pos,Y,3,6,0,27,119,Y,Type 1,40,Normal,NO
+F,40,Often,3,65,B pos,N,0,1,8,30,89,Y,Type 2,42,Normal,NO
+F,40,Often,0,60,B pos,Y,1,1,7,36,137,Y,Healthy,39,Normal,NO
+M,40,Periodic,6,55,0 pos,N,4,1,4,19,155,N,Healthy,39,Normal,YES
+M,40,Periodic,0,69,B pos,N,6,1,5,21,118,N,Healthy,42,Normal,NO
+F,40,Periodic,10,73,0 pos,N,0,1,5,21,165,N,Healthy,42,Normal,YES
+M,40,Periodic,4,65,A pos,Y,7,1,5,24,118,N,Healthy,41,Normal,YES
+M,40,Periodic,7,68,B pos,Y,0,1,4,26,119,N,Healthy,41,Normal,NO
+F,40,Periodic,6,67,A pos,N,7,1,4,24,169,N,Healthy,42,Anormalities,NO
+F,40,Periodic,0,61,A pos,Y,9,1,10,24,171,N,Healthy,37,Normal,NO
+M,40,Periodic,5,69,0 pos,N,0,1,0,28,119,N,Healthy,40,Anormalities,NO
+M,40,Periodic,10,58,A pos,Y,0,1,8,26,113,N,Healthy,37,Normal,NO
+F,40,Periodic,1,67,0 pos,Y,0,1,7,23,117,N,Type 2,38,Normal,NO
+F,40,Periodic,4,63,0 pos,Y,0,1,2,28,148,Y,Type 2,44,Normal,OBS
+F,40,Periodic,9,68,B pos,Y,0,1,2,27,160,Y,Healthy,43,Normal,NO
+F,40,Periodic,1,68,A pos,N,2,1,0,35,140,Y,Healthy,40,Anormalities,YES
+F,40,Periodic,0,58,0 pos,N,0,4,0,31,110,Y,Type 1,37,Normal,OBS
+F,41,None,4,67,B pos,N,0,1,7,21,129,N,Healthy,42,Normal,NO
+M,41,None,10,66,0 pos,Y,3,2,9,21,200,N,Healthy,40,Normal,NO
+M,41,None,0,64,B pos,N,0,1,0,22,142,N,Type 1,40,Normal,NO
+M,41,None,10,65,B pos,N,7,1,4,27,117,N,Healthy,42,Normal,NO
+F,41,None,10,59,A pos,N,0,3,3,34,140,Y,Type 1,38,Normal,NO
+M,41,None,6,73,A pos,Y,1,1,4,40,94,Y,Type 2,39,Normal,NO
+F,41,None,5,61,0 pos,N,0,1,6,36,92,Y,Healthy,39,Anormalities,OBS
+M,41,None,10,70,B pos,Y,1,1,0,37,169,Y,Healthy,44,Normal,NO
+M,41,None,5,65,0 pos,Y,17,1,7,24,124,N,Type 2,41,Anormalities,YES
+M,41,None,10,66,A pos,Y,0,1,4,27,141,Y,Healthy,38,Anormalities,YES
+F,41,None,0,55,A pos,Y,0,1,10,38,136,Y,Type 1,39,Anormalities,YES
+F,41,None,7,68,B pos,Y,0,1,10,26,119,Y,Healthy,39,Anormalities,YES
+F,41,None,4,69,B pos,Y,1,1,2,29,151,Y,Type 2,42,Anormalities,YES
+F,41,None,5,58,0 pos,Y,3,6,0,40,147,Y,Healthy,40,Anormalities,YES
+F,41,Often,6,68,0 pos,Y,7,1,0,24,109,N,Healthy,41,Anormalities,YES
+F,41,Often,4,66,0 pos,Y,2,1,8,29,133,Y,Healthy,37,Anormalities,YES
+M,41,Periodic,4,68,B pos,Y,3,1,7,33,125,Y,Healthy,37,Anormalities,YES
+F,41,Often,1,79,A pos,N,0,1,3,19,206,N,Healthy,45,Normal,NO
+F,41,Often,7,68,B pos,Y,9,1,4,22,120,N,Healthy,43,Normal,NO
+M,41,Often,0,60,B pos,N,0,1,9,23,103,N,Healthy,38,Normal,NO
+F,41,Often,10,59,0 pos,N,2,6,1,18,93,Y,Type 2,37,Normal,NO
+F,41,Often,2,72,0 pos,N,0,1,3,29,106,Y,Type 1,39,Normal,YES
+M,41,Often,5,67,A pos,N,0,3,9,40,152,Y,Type 2,41,Anormalities,YES
+M,41,Often,4,64,0 pos,N,2,5,5,34,128,Y,Type 2,40,Anormalities,YES
+F,41,Often,7,63,A pos,N,3,1,7,37,132,Y,Type 1,41,Normal,NO
+M,41,Often,4,61,A pos,N,9,6,1,28,109,Y,Healthy,41,Anormalities,NO
+M,41,Often,10,70,A pos,N,5,1,4,33,114,Y,Healthy,44,Anormalities,NO
+F,41,Often,5,65,B pos,N,0,1,2,39,125,Y,Healthy,41,Anormalities,YES
+F,41,Often,5,67,A pos,N,0,1,9,26,129,Y,Healthy,45,Anormalities,NO
+M,41,Often,4,71,A pos,Y,0,6,10,17,126,Y,Healthy,40,Normal,NO
+M,41,Often,2,65,B pos,N,0,6,2,36,130,Y,Healthy,41,Anormalities,NO
+M,41,Periodic,6,63,A pos,Y,4,1,10,19,127,N,Healthy,42,Normal,YES
+F,41,Periodic,4,68,A pos,Y,0,1,3,24,149,N,Healthy,41,Normal,NO
+F,41,Periodic,7,60,A pos,Y,3,1,10,23,157,N,Healthy,41,Normal,NO
+F,41,Periodic,1,71,B pos,N,0,1,7,23,136,Y,Healthy,41,Normal,NO
+M,41,Periodic,0,62,B pos,Y,0,1,3,21,135,Y,Type 1,44,Normal,YES
+F,42,None,6,64,A pos,Y,3,1,7,21,112,N,Healthy,37,Normal,NO
+F,42,None,4,59,B pos,N,6,1,7,24,100,N,Healthy,40,Normal,NO
+F,42,None,4,71,B pos,N,4,1,6,23,106,N,Type 2,37,Normal,NO
+F,42,None,4,61,A pos,N,0,1,10,24,132,N,Healthy,39,Normal,NO
+M,42,None,0,66,A pos,N,8,1,0,24,150,N,Healthy,40,Anormalities,OBS
+F,42,None,6,72,0 pos,N,7,6,10,32,144,Y,Healthy,37,Anormalities,OBS
+F,42,None,5,64,A pos,Y,9,3,0,31,125,Y,Healthy,38,Normal,NO
+F,42,None,5,60,B pos,Y,4,1,6,22,119,N,Healthy,40,Anormalities,OBS
+F,42,Often,8,74,0 pos,Y,1,1,4,25,120,N,Healthy,37,Normal,NO
+F,42,Often,0,59,B pos,N,0,1,10,23,124,N,Healthy,39,Normal,NO
+F,42,Often,3,69,0 pos,N,0,1,7,22,119,N,Healthy,39,Normal,NO
+F,42,None,1,65,0 pos,Y,1,1,1,37,91,Y,Type 1,41,Anormalities,OBS
+F,42,Often,0,68,A pos,Y,1,1,8,38,89,Y,Type 2,39,Anormalities,OBS
+F,42,Periodic,10,70,B pos,Y,0,1,1,25,121,N,Healthy,40,Anormalities,YES
+M,42,Often,2,63,B pos,N,2,2,2,23,156,N,Healthy,38,Anormalities,NO
+F,42,Periodic,4,61,B pos,Y,0,1,3,23,126,N,Type 1,41,Anormalities,OBS
+M,42,Often,6,67,B pos,Y,7,1,1,22,130,N,Healthy,40,Normal,NO
+F,42,Often,0,57,A pos,Y,0,1,10,26,124,N,Healthy,38,Normal,NO
+F,42,Often,6,61,B pos,N,7,1,7,23,146,N,Healthy,41,Normal,NO
+F,42,Periodic,0,62,A pos,Y,0,1,9,30,142,Y,Type 2,39,Anormalities,OBS
+M,42,Often,4,59,A pos,N,0,1,2,26,129,N,Healthy,42,Anormalities,NO
+M,42,Often,10,69,0 pos,Y,0,1,9,23,152,N,Healthy,43,Normal,NO
+F,42,Often,5,74,A pos,N,0,5,4,34,127,Y,Type 2,38,Normal,YES
+M,42,Often,6,65,A pos,Y,0,1,0,29,119,Y,Type 1,41,Normal,YES
+F,42,None,0,60,A pos,N,4,6,10,27,88,Y,Type 1,38,Anormalities,OBS
+F,42,None,0,61,A pos,N,3,1,10,30,141,Y,Type 2,37,Anormalities,OBS
+F,42,Often,0,62,B pos,Y,5,1,2,37,146,Y,Type 2,40,Normal,YES
+M,42,Often,0,65,0 pos,N,4,6,10,24,143,Y,Healthy,44,Anormalities,YES
+M,42,Periodic,0,64,A pos,Y,6,1,7,24,139,N,Healthy,38,Normal,YES
+F,42,Periodic,8,58,0 pos,N,0,1,10,26,122,N,Healthy,40,Normal,NO
+F,42,Periodic,9,57,A pos,Y,4,1,0,22,203,N,Healthy,38,Normal,NO
+F,42,Periodic,7,65,A pos,Y,0,1,1,24,146,N,Healthy,37,Normal,NO
+F,42,Periodic,5,62,A pos,N,0,1,1,38,132,Y,Type 1,42,Normal,OBS
+M,42,Periodic,0,63,B pos,Y,0,1,5,41,143,Y,Type 2,42,Normal,YES
+F,42,Periodic,3,66,B pos,N,4,6,2,30,111,Y,Healthy,39,Normal,NO
+F,42,Periodic,3,67,A pos,N,0,6,1,38,127,Y,Type 1,40,Anormalities,YES
+F,42,Periodic,0,70,0 pos,Y,8,6,3,28,131,Y,Type 2,42,Normal,OBS
+M,43,None,4,65,0 pos,N,2,2,4,21,104,N,Healthy,38,Normal,NO
+M,43,None,9,71,A pos,N,6,1,10,21,156,N,Healthy,39,Normal,NO
+M,43,None,10,60,A pos,N,0,1,2,23,160,N,Healthy,41,Normal,NO
+F,43,None,6,69,B pos,N,3,1,0,27,206,N,Healthy,43,Normal,NO
+F,43,None,10,70,B pos,N,0,1,3,19,131,N,Healthy,39,Normal,NO
+M,43,None,3,57,A pos,N,0,1,8,24,144,N,Healthy,39,Normal,NO
+M,43,None,0,64,A pos,Y,0,1,7,23,125,N,Healthy,42,Normal,NO
+F,43,None,3,67,B pos,Y,0,1,5,28,147,N,Healthy,38,Normal,NO
+F,43,None,3,61,A pos,Y,0,1,2,26,126,Y,Healthy,38,Normal,NO
+M,43,None,7,74,A pos,Y,0,1,8,28,142,Y,Healthy,41,Normal,NO
+F,43,Often,9,64,0 pos,Y,7,1,6,21,109,N,Healthy,39,Normal,NO
+F,43,Often,7,62,A pos,N,0,1,3,26,208,N,Healthy,40,Normal,NO
+M,43,Often,1,66,B pos,N,6,1,4,19,116,N,Healthy,37,Anormalities,OBS
+M,43,Often,0,69,B pos,Y,6,1,6,23,156,N,Healthy,41,Normal,NO
+F,43,None,7,57,A pos,Y,1,1,3,27,134,Y,Type 2,38,Anormalities,YES
+M,43,Periodic,0,68,B pos,Y,0,3,9,34,117,Y,Type 2,41,Anormalities,YES
+F,43,Often,8,68,A pos,Y,0,1,3,25,204,N,Healthy,37,Normal,NO
+F,43,Often,2,62,0 pos,Y,0,1,7,22,120,N,Healthy,40,Normal,NO
+M,43,Periodic,10,62,A pos,N,5,1,6,27,110,Y,Type 2,42,Anormalities,OBS
+M,43,Often,10,70,A pos,Y,0,1,8,24,65,Y,Healthy,37,Normal,YES
+M,43,Periodic,7,63,0 pos,Y,0,1,0,20,121,N,Healthy,39,Normal,NO
+M,43,Periodic,10,58,B pos,N,0,2,10,21,162,N,Healthy,42,Anormalities,NO
+F,43,Periodic,10,72,A pos,Y,6,1,1,21,152,N,Healthy,42,Normal,NO
+F,43,Periodic,10,70,0 pos,N,0,2,0,25,140,N,Healthy,42,Normal,NO
+M,43,Periodic,5,59,0 pos,N,6,6,2,29,175,Y,Healthy,39,Normal,YES
+F,43,Periodic,8,66,0 pos,N,0,6,10,24,134,Y,Healthy,41,Anormalities,OBS
+F,43,Periodic,8,63,0 pos,Y,0,2,10,34,137,Y,Type 2,40,Normal,OBS
+F,43,Periodic,7,68,B pos,N,0,1,4,33,131,Y,Type 1,39,Anormalities,YES
+M,44,None,0,59,A pos,Y,0,1,10,21,130,N,Healthy,39,Normal,NO
+M,44,None,6,61,0 pos,N,0,1,4,19,102,N,Healthy,39,Anormalities,OBS
+F,44,None,7,68,0 pos,N,3,1,9,22,170,N,Healthy,41,Normal,NO
+M,44,None,1,69,B pos,Y,0,1,3,22,151,N,Healthy,37,Normal,NO
+M,44,None,0,54,B pos,N,0,3,3,25,133,Y,Type 1,40,Normal,NO
+M,44,None,3,68,A pos,N,2,1,1,47,137,Y,Type 2,37,Anormalities,YES
+M,44,None,5,72,A pos,N,7,1,9,31,192,Y,Type 1,41,Anormalities,YES
+M,44,Often,9,63,B pos,N,3,1,0,23,149,N,Healthy,40,Normal,NO
+F,44,Often,3,71,0 pos,Y,5,1,2,24,105,N,Healthy,41,Normal,NO
+M,44,Often,0,61,0 pos,N,0,1,3,23,156,N,Healthy,43,Normal,NO
+F,44,Often,2,71,A pos,N,0,1,5,26,150,N,Healthy,38,Normal,NO
+F,44,Often,1,69,A pos,Y,0,1,0,25,127,N,Healthy,37,Normal,NO
+M,44,Often,3,71,B pos,N,0,1,1,24,143,N,Healthy,44,Anormalities,NO
+F,44,Often,0,60,A pos,Y,0,1,3,26,108,N,Healthy,41,Normal,NO
+M,44,None,8,63,B pos,Y,0,1,8,25,144,N,Healthy,43,Anormalities,YES
+M,44,Often,0,63,A pos,Y,0,1,2,22,124,N,Healthy,38,Normal,NO
+F,44,None,3,62,A pos,Y,0,1,6,33,169,Y,Healthy,40,Anormalities,YES
+M,44,None,10,61,0 pos,Y,0,1,2,36,125,Y,Healthy,42,Anormalities,YES
+F,44,None,2,61,B pos,Y,6,6,2,35,138,Y,Healthy,41,Anormalities,YES
+F,44,Often,7,60,B pos,N,0,1,5,24,134,Y,Healthy,43,Normal,NO
+M,44,Often,10,69,B pos,Y,4,1,8,34,123,Y,Type 2,41,Normal,YES
+M,44,None,0,69,0 pos,Y,0,1,7,33,136,Y,Type 1,39,Anormalities,YES
+F,44,Often,2,68,A pos,Y,0,3,0,28,119,Y,Healthy,42,Anormalities,YES
+F,44,Periodic,5,65,0 pos,Y,0,6,0,24,143,Y,Type 2,40,Anormalities,YES
+F,44,Periodic,5,72,0 pos,Y,1,1,9,37,141,Y,Type 2,39,Anormalities,YES
+F,44,Periodic,2,72,0 pos,Y,6,1,5,40,114,Y,Type 1,42,Anormalities,YES
+F,44,Periodic,0,63,B pos,Y,2,1,3,27,109,Y,Type 1,44,Anormalities,OBS
+F,44,Often,3,64,A pos,N,0,2,6,33,145,Y,Type 2,40,Anormalities,OBS
+M,44,Often,6,52,0 pos,Y,0,3,10,30,135,Y,Type 1,42,Normal,NO
+F,44,Periodic,1,63,0 pos,Y,0,1,5,24,159,N,Healthy,37,Normal,YES
+F,44,Periodic,3,69,0 pos,N,4,1,10,23,139,N,Healthy,39,Normal,YES
+M,44,Periodic,10,63,0 pos,N,0,1,10,30,96,Y,Healthy,40,Anormalities,YES
+M,44,Periodic,0,72,0 pos,N,0,1,5,25,140,N,Type 1,37,Normal,NO
+M,44,Periodic,9,66,B pos,Y,0,1,3,28,138,N,Type 2,42,Normal,NO
+F,44,Periodic,10,57,A pos,Y,1,1,3,20,146,N,Type 2,43,Normal,YES
+F,44,Periodic,5,65,0 pos,N,0,1,0,34,142,Y,Type 1,38,Normal,NO
+M,44,Periodic,6,61,A pos,Y,0,3,4,30,112,Y,Type 1,38,Normal,OBS
+F,44,Periodic,10,66,B pos,Y,6,1,5,29,126,Y,Type 1,42,Normal,YES
+F,44,Periodic,6,61,0 pos,Y,0,1,2,39,140,Y,Type 1,37,Normal,YES
+F,44,Periodic,7,69,0 pos,Y,0,1,4,30,105,Y,Type 2,38,Normal,NO
+F,44,Periodic,8,66,0 pos,N,2,6,1,28,174,Y,Type 2,39,Normal,OBS
+M,45,None,1,67,B pos,Y,6,1,8,25,131,N,Healthy,42,Normal,NO
+F,45,None,9,61,A pos,N,4,1,3,24,153,N,Healthy,39,Normal,NO
+M,45,None,4,66,A pos,Y,4,1,0,25,170,N,Healthy,39,Normal,NO
+F,45,None,5,66,B pos,Y,0,6,3,34,129,Y,Type 1,41,Normal,NO
+F,45,None,2,56,0 pos,Y,0,1,5,29,119,Y,Type 1,40,Normal,NO
+F,45,None,7,73,B pos,Y,0,1,9,34,153,Y,Healthy,37,Normal,NO
+F,45,None,8,67,0 pos,N,6,1,0,22,146,Y,Type 1,37,Normal,NO
+M,45,Often,0,65,B pos,Y,0,1,6,24,153,N,Healthy,46,Normal,NO
+M,45,Often,5,72,A pos,Y,0,1,0,24,135,N,Healthy,39,Normal,NO
+F,45,Often,7,71,0 pos,N,4,1,2,21,128,N,Healthy,38,Anormalities,YES
+M,45,Often,0,63,A pos,Y,0,6,0,34,147,Y,Type 1,39,Normal,YES
+F,45,Often,0,62,0 pos,N,0,1,0,24,100,N,Healthy,37,Normal,NO
+F,45,Often,10,69,A pos,N,0,6,2,31,145,Y,Type 2,38,Normal,NO
+F,45,Often,7,59,A pos,N,1,6,4,40,132,Y,Type 1,41,Anormalities,YES
+F,45,None,1,73,B pos,Y,0,1,5,33,165,Y,Type 1,40,Anormalities,YES
+M,45,None,9,71,A pos,Y,0,6,3,34,119,Y,Type 1,40,Anormalities,YES
+M,45,None,3,64,A pos,Y,0,1,5,32,152,Y,Type 2,37,Anormalities,YES
+M,45,Often,4,64,A pos,Y,6,5,7,30,128,Y,Type 1,38,Anormalities,YES
+F,45,Often,10,61,0 pos,Y,0,1,8,29,145,Y,Type 1,37,Anormalities,YES
+F,45,Often,8,66,A pos,Y,0,1,1,27,109,Y,Type 1,41,Anormalities,YES
+M,45,Often,7,61,A pos,Y,4,1,5,22,134,Y,Type 1,41,Normal,YES
+M,45,Often,5,63,A pos,Y,0,5,3,38,140,Y,Type 1,41,Anormalities,YES
+M,45,Periodic,0,64,0 pos,Y,0,5,4,26,129,Y,Type 2,39,Anormalities,YES
+F,45,Periodic,10,67,B pos,Y,0,3,3,33,117,Y,Healthy,40,Anormalities,OBS
+M,45,Periodic,0,76,0 pos,Y,0,1,5,27,112,Y,Type 2,39,Anormalities,YES
+F,45,Periodic,7,74,0 pos,Y,0,4,0,29,136,Y,Type 2,37,Anormalities,YES
+M,45,Often,0,68,A pos,Y,0,2,6,30,104,Y,Healthy,39,Normal,YES
+M,45,Often,10,57,0 pos,Y,7,1,1,31,141,Y,Healthy,37,Normal,NO
+F,45,Periodic,10,61,A pos,Y,0,1,6,25,132,N,Healthy,38,Normal,YES
+F,45,Periodic,6,71,B pos,Y,4,1,3,23,129,N,Healthy,45,Normal,NO
+M,45,Periodic,8,69,A pos,Y,0,2,3,25,202,N,Healthy,39,Normal,NO
+F,45,Periodic,4,71,B pos,N,0,1,5,21,158,N,Healthy,41,Normal,NO
+F,45,Periodic,0,67,0 pos,N,0,1,4,19,206,N,Healthy,42,Normal,YES
+M,45,Periodic,0,60,0 pos,Y,0,1,3,42,111,Y,Type 2,37,Normal,YES
+M,45,Periodic,0,62,B pos,N,7,4,6,33,135,Y,Type 1,39,Normal,OBS
+F,46,None,3,62,A pos,N,3,1,8,24,122,N,Healthy,40,Normal,NO
+M,46,None,9,63,B pos,N,0,1,0,20,136,N,Type 2,39,Normal,NO
+M,46,None,10,72,0 pos,Y,3,1,1,26,133,N,Healthy,40,Normal,NO
+M,46,None,0,67,A pos,Y,0,1,10,24,73,N,Healthy,40,Normal,NO
+F,46,None,6,54,A pos,N,8,1,0,23,127,N,Healthy,39,Normal,NO
+M,46,None,5,64,A pos,Y,6,1,6,22,130,N,Healthy,38,Normal,YES
+F,46,None,0,68,A pos,N,0,1,10,21,129,N,Healthy,40,Normal,NO
+M,46,None,8,72,B pos,Y,0,2,10,22,151,Y,Type 1,39,Normal,NO
+F,46,None,2,69,A pos,N,6,1,1,29,119,Y,Healthy,37,Normal,NO
+F,46,None,8,62,B pos,Y,3,1,6,27,112,Y,Type 2,40,Normal,NO
+F,46,None,6,56,0 pos,N,0,4,3,23,118,Y,Healthy,39,Anormalities,OBS
+M,46,None,9,59,B pos,N,0,1,7,35,118,Y,Type 1,38,Normal,NO
+F,46,Often,8,65,B pos,Y,0,1,6,21,145,N,Type 1,41,Normal,NO
+F,46,Often,10,63,B pos,N,0,1,5,23,163,N,Healthy,40,Normal,NO
+M,46,Often,0,61,0 pos,N,0,1,6,20,174,N,Healthy,41,Normal,NO
+F,46,Often,10,64,B pos,N,1,1,5,24,140,N,Healthy,37,Anormalities,NO
+M,46,Often,0,70,0 pos,N,0,1,0,24,124,N,Healthy,40,Normal,NO
+M,46,Often,6,80,B pos,N,2,1,7,20,206,N,Healthy,40,Normal,NO
+M,46,Often,7,64,0 pos,Y,2,1,4,26,113,N,Type 1,38,Normal,NO
+M,46,Often,0,63,0 pos,Y,1,1,7,23,127,N,Healthy,38,Normal,NO
+M,46,Often,7,74,A pos,N,2,1,1,21,143,N,Healthy,39,Normal,NO
+M,46,Often,6,61,B pos,N,4,2,9,17,128,Y,Healthy,43,Normal,NO
+M,46,Often,10,72,A pos,Y,0,6,10,25,164,Y,Healthy,40,Normal,NO
+F,46,Often,4,64,0 pos,Y,0,1,0,28,140,Y,Type 1,40,Normal,NO
+F,46,Often,9,69,0 pos,N,2,1,4,31,139,Y,Type 1,43,Normal,NO
+M,46,Often,0,72,A pos,N,4,1,8,30,164,Y,Type 1,41,Normal,NO
+F,46,None,3,61,A pos,Y,0,1,6,24,127,N,Healthy,42,Anormalities,OBS
+M,46,None,1,66,A pos,Y,0,6,2,26,167,Y,Type 1,39,Anormalities,YES
+M,46,None,6,72,A pos,Y,0,6,9,24,142,Y,Type 2,43,Anormalities,YES
+F,46,None,2,69,B pos,Y,7,1,3,32,144,Y,Type 1,38,Anormalities,YES
+F,46,Often,7,61,B pos,Y,1,1,10,25,136,N,Healthy,39,Anormalities,OBS
+M,46,Often,4,63,B pos,Y,0,1,8,23,113,Y,Type 2,40,Anormalities,OBS
+F,46,Often,1,61,B pos,Y,4,3,3,21,122,Y,Type 1,37,Anormalities,YES
+F,46,Periodic,3,67,0 pos,N,0,1,6,19,120,Y,Type 2,39,Anormalities,OBS
+F,46,Periodic,1,61,B pos,Y,0,1,8,31,125,Y,Healthy,40,Anormalities,OBS
+F,46,Periodic,10,67,0 pos,N,1,1,3,22,136,N,Healthy,41,Normal,NO
+M,46,Periodic,8,69,0 pos,N,0,1,5,23,135,N,Healthy,37,Normal,NO
+F,46,Periodic,0,66,0 pos,Y,0,1,3,20,178,N,Healthy,42,Normal,NO
+F,46,Periodic,3,74,A pos,Y,0,1,8,22,115,N,Healthy,38,Normal,YES
+F,46,Periodic,10,65,0 pos,N,5,1,3,21,109,N,Type 2,38,Normal,NO
+M,46,Periodic,10,66,0 pos,Y,8,1,9,25,155,N,Type 1,41,Normal,NO
+F,46,Periodic,0,67,B pos,N,0,6,0,29,131,Y,Type 2,40,Normal,NO
+F,46,Periodic,10,66,0 pos,N,0,1,1,29,103,Y,Type 2,37,Normal,OBS
+M,46,Periodic,0,62,B pos,N,9,1,2,31,105,Y,Type 1,43,Anormalities,YES
+F,46,Periodic,10,69,B pos,N,3,1,8,28,147,Y,Type 1,41,Normal,OBS
+M,46,Periodic,0,59,0 pos,N,7,1,10,33,122,Y,Healthy,38,Anormalities,YES
+M,46,Periodic,6,68,A pos,N,0,1,3,33,145,Y,Healthy,43,Normal,NO
+M,46,Periodic,10,70,0 pos,Y,0,5,5,26,124,Y,Type 1,41,Normal,OBS
+M,46,Periodic,9,66,B pos,N,0,6,9,29,126,Y,Type 2,43,Normal,OBS
+M,46,Periodic,0,68,0 pos,Y,2,1,0,26,102,Y,Type 1,37,Normal,OBS
+F,47,None,2,59,A pos,N,8,1,6,24,139,N,Healthy,43,Normal,NO
+M,47,None,2,64,A pos,Y,0,1,1,21,112,N,Healthy,42,Normal,NO
+M,47,None,0,64,0 pos,N,0,1,5,20,129,N,Healthy,37,Normal,NO
+F,47,None,8,69,B pos,N,0,2,4,21,156,N,Healthy,40,Normal,NO
+F,47,None,10,71,A pos,N,0,2,10,28,122,Y,Type 2,41,Anormalities,YES
+M,47,None,7,68,A pos,Y,6,5,2,29,120,Y,Type 2,44,Normal,NO
+F,47,None,0,74,A pos,N,0,1,0,29,150,Y,Healthy,38,Normal,NO
+M,47,None,4,68,0 pos,N,0,6,0,26,122,Y,Healthy,38,Normal,NO
+M,47,Often,0,63,B pos,Y,0,1,7,23,206,N,Type 2,38,Normal,YES
+M,47,Often,0,61,A pos,N,0,1,8,27,113,N,Healthy,37,Normal,NO
+M,47,Often,8,59,0 pos,N,0,1,6,24,128,N,Healthy,39,Anormalities,NO
+M,47,Often,8,75,B pos,Y,7,1,6,20,163,N,Healthy,40,Normal,NO
+M,47,Often,5,66,B pos,Y,5,1,7,25,125,N,Healthy,41,Normal,NO
+F,47,Often,8,62,0 pos,N,0,1,3,23,109,N,Healthy,40,Normal,NO
+F,47,Often,0,76,A pos,Y,0,6,5,33,136,Y,Type 2,43,Normal,YES
+M,47,None,0,70,B pos,Y,0,6,1,34,107,Y,Healthy,42,Anormalities,OBS
+F,47,None,0,74,0 pos,N,6,2,0,28,130,Y,Type 2,37,Anormalities,OBS
+F,47,Periodic,7,58,A pos,Y,0,2,0,27,129,Y,Type 1,43,Anormalities,YES
+M,47,None,7,65,0 pos,N,0,1,0,32,133,Y,Type 2,43,Anormalities,OBS
+F,47,Periodic,10,65,A pos,Y,3,1,7,23,144,Y,Healthy,45,Anormalities,OBS
+M,47,Often,5,69,0 pos,Y,2,1,0,28,130,Y,Type 2,39,Anormalities,OBS
+F,47,Periodic,4,62,0 pos,Y,0,1,1,24,135,N,Healthy,39,Normal,NO
+F,47,Periodic,4,66,0 pos,N,4,1,5,22,134,N,Healthy,43,Normal,NO
+F,47,Periodic,0,62,A pos,N,0,1,0,22,108,N,Healthy,38,Normal,NO
+M,47,Periodic,5,68,A pos,Y,3,1,3,20,136,N,Healthy,42,Normal,YES
+M,47,Periodic,0,66,0 pos,N,1,1,6,23,136,N,Healthy,39,Normal,NO
+M,47,Periodic,2,77,0 pos,N,0,1,5,22,115,N,Healthy,38,Normal,YES
+F,47,Periodic,9,67,A pos,N,0,1,0,20,124,N,Healthy,39,Anormalities,NO
+M,47,Periodic,1,64,A pos,N,6,1,5,31,162,Y,Healthy,44,Normal,NO
+F,47,Periodic,0,76,A pos,Y,0,2,10,31,127,Y,Healthy,39,Normal,NO
+F,47,Periodic,0,68,0 pos,N,2,1,8,29,147,Y,Type 1,40,Normal,YES
+F,47,Periodic,10,67,A pos,N,11,1,10,29,121,Y,Healthy,41,Normal,NO
+F,47,Periodic,2,71,A pos,N,5,3,0,32,143,Y,Healthy,43,Anormalities,YES
+F,47,Periodic,6,68,0 pos,Y,5,2,2,33,127,Y,Type 1,41,Normal,NO
+M,47,Periodic,0,60,A pos,N,0,4,0,33,123,Y,Type 1,41,Normal,OBS
+M,48,None,9,70,0 pos,N,8,2,10,24,204,N,Healthy,40,Normal,NO
+M,48,None,3,68,B pos,Y,12,1,3,18,110,N,Healthy,37,Normal,NO
+F,48,None,0,58,0 pos,N,0,2,4,21,155,N,Healthy,39,Normal,NO
+M,48,None,10,66,0 pos,N,0,1,9,21,108,N,Healthy,39,Normal,NO
+F,48,None,2,66,0 pos,N,12,3,8,26,108,Y,Type 2,41,Normal,NO
+F,48,None,0,62,B pos,N,6,1,0,25,150,Y,Type 1,38,Anormalities,YES
+F,48,None,4,73,0 pos,N,3,6,10,26,146,Y,Type 2,43,Normal,NO
+M,48,None,8,71,A pos,Y,6,1,5,25,150,Y,Healthy,41,Normal,NO
+F,48,None,9,63,0 pos,N,5,1,8,28,120,Y,Type 1,41,Normal,NO
+F,48,None,0,60,A pos,N,0,5,10,24,121,Y,Healthy,37,Normal,NO
+M,48,Often,10,69,0 pos,Y,3,1,8,20,120,N,Healthy,38,Normal,NO
+M,48,Often,10,63,A pos,Y,6,1,5,23,125,N,Healthy,40,Normal,NO
+M,48,Often,7,66,A pos,Y,0,1,1,27,142,N,Healthy,41,Normal,NO
+M,48,Often,3,58,0 pos,N,0,1,5,23,148,N,Healthy,38,Normal,NO
+M,48,Often,2,72,0 pos,Y,1,6,8,31,123,Y,Type 1,44,Normal,NO
+M,48,Often,10,64,A pos,Y,0,1,2,26,135,Y,Type 2,41,Normal,YES
+F,48,Often,3,60,0 pos,N,0,1,9,26,134,N,Healthy,40,Normal,NO
+M,48,Often,4,62,A pos,Y,2,1,6,22,141,N,Healthy,37,Normal,NO
+F,48,Often,3,68,A pos,Y,1,1,1,24,105,N,Healthy,37,Normal,YES
+F,48,Often,8,59,A pos,N,4,2,9,24,108,Y,Type 2,43,Normal,NO
+F,48,Often,9,63,B pos,N,0,1,1,29,142,Y,Healthy,41,Normal,NO
+F,48,Often,8,72,A pos,N,1,6,7,28,100,Y,Type 1,38,Normal,NO
+F,48,None,1,67,0 pos,Y,0,1,2,31,159,Y,Type 1,40,Anormalities,YES
+F,48,Often,3,60,0 pos,Y,0,1,0,23,99,Y,Type 1,37,Anormalities,OBS
+F,48,Often,0,62,A pos,Y,9,1,9,32,126,Y,Type 1,44,Anormalities,OBS
+M,48,Often,10,71,B pos,Y,0,4,0,25,104,Y,Type 2,41,Anormalities,OBS
+F,48,Periodic,2,58,0 pos,Y,0,5,1,31,134,Y,Type 2,38,Anormalities,OBS
+M,48,Periodic,0,65,B pos,Y,0,1,8,21,130,N,Healthy,40,Normal,NO
+F,48,Periodic,2,68,A pos,N,0,1,7,23,104,N,Healthy,40,Anormalities,NO
+M,48,Periodic,2,58,B pos,Y,1,6,3,21,149,Y,Type 2,37,Normal,OBS
+F,48,Periodic,8,62,0 pos,N,0,1,6,30,112,Y,Type 2,41,Anormalities,YES
+M,48,Periodic,0,69,A pos,N,0,6,2,30,166,Y,Type 2,40,Normal,OBS
+M,48,Periodic,6,66,A pos,N,1,1,3,31,106,Y,Type 2,42,Normal,YES
+F,48,Periodic,4,65,0 pos,N,5,1,0,37,120,Y,Type 1,38,Anormalities,YES
+M,48,Periodic,0,64,A pos,Y,0,2,8,34,100,Y,Type 1,42,Normal,OBS
+M,49,None,1,66,B pos,N,0,1,7,25,78,N,Healthy,42,Normal,NO
+M,49,None,10,63,0 pos,Y,3,1,8,22,143,N,Healthy,41,Normal,NO
+F,49,None,2,69,A pos,Y,0,1,4,22,118,N,Healthy,37,Normal,NO
+F,49,None,5,72,0 pos,Y,0,1,2,23,128,N,Healthy,44,Normal,NO
+M,49,None,3,59,B pos,Y,14,1,10,25,207,N,Healthy,40,Normal,NO
+F,49,None,2,66,A pos,N,0,1,9,22,133,N,Healthy,39,Normal,NO
+M,49,None,0,58,B pos,N,0,1,0,23,128,N,Healthy,41,Normal,NO
+M,49,None,0,72,A pos,Y,0,1,0,24,138,N,Healthy,42,Normal,NO
+M,49,None,0,62,0 pos,N,2,1,3,26,138,N,Healthy,40,Normal,NO
+F,49,None,0,60,A pos,N,0,5,6,33,116,Y,Healthy,38,Anormalities,OBS
+M,49,None,9,67,A pos,N,2,1,4,30,145,Y,Healthy,43,Normal,NO
+M,49,None,10,60,0 pos,N,1,5,4,20,142,Y,Type 2,37,Normal,NO
+M,49,None,1,68,B pos,N,0,3,7,34,165,Y,Type 2,42,Anormalities,YES
+M,49,None,1,69,B pos,N,0,6,2,30,132,Y,Healthy,42,Anormalities,OBS
+F,49,None,0,66,A pos,Y,0,6,1,34,164,Y,Healthy,44,Normal,NO
+F,49,Often,3,54,0 pos,N,1,1,0,25,145,N,Healthy,37,Normal,NO
+F,49,Often,4,64,A pos,Y,3,1,9,27,117,N,Healthy,39,Normal,NO
+M,49,Often,10,68,B pos,N,7,1,5,22,148,N,Healthy,42,Normal,YES
+F,49,Often,5,69,B pos,Y,0,2,8,25,138,Y,Type 2,41,Normal,YES
+M,49,Periodic,5,73,A pos,Y,0,1,9,21,149,N,Healthy,38,Normal,NO
+F,49,Periodic,0,61,0 pos,N,0,1,6,23,129,N,Healthy,37,Normal,NO
+M,49,Often,7,69,0 pos,N,0,1,5,23,96,Y,Type 1,39,Anormalities,OBS
+F,49,Often,5,68,A pos,N,0,1,4,26,126,Y,Type 1,39,Anormalities,OBS
+M,49,Periodic,9,59,A pos,Y,0,1,4,25,152,N,Healthy,38,Normal,NO
+F,49,None,10,61,B pos,Y,0,4,6,36,137,Y,Healthy,37,Anormalities,OBS
+F,49,Periodic,10,76,B pos,N,9,2,4,25,157,N,Healthy,40,Normal,NO
+M,49,Periodic,10,64,0 pos,Y,1,1,4,24,146,N,Healthy,37,Normal,NO
+M,49,Periodic,0,66,B pos,Y,0,1,5,23,209,N,Healthy,42,Normal,NO
+F,49,Periodic,9,72,B pos,Y,0,1,10,26,150,N,Healthy,42,Anormalities,OBS
+M,49,Periodic,6,62,0 pos,Y,0,1,9,29,141,N,Healthy,40,Normal,NO
+F,49,Often,5,60,A pos,N,0,6,0,27,111,Y,Type 1,44,Anormalities,OBS
+M,49,Periodic,5,66,0 pos,N,0,6,5,25,97,Y,Type 2,43,Anormalities,OBS
+M,49,Periodic,3,66,0 pos,N,7,1,10,31,82,Y,Type 1,42,Normal,OBS
+M,49,Periodic,0,71,0 pos,Y,9,1,9,35,148,Y,Type 2,40,Normal,OBS
+F,49,Periodic,2,69,0 pos,N,4,1,6,29,167,Y,Type 1,40,Anormalities,YES
+M,50,None,8,66,0 pos,N,2,1,10,24,197,N,Healthy,42,Anormalities,OBS
+F,50,None,6,65,A pos,N,3,1,9,25,138,N,Healthy,40,Normal,NO
+M,50,None,6,64,0 pos,Y,2,1,10,24,133,N,Healthy,42,Normal,NO
+F,50,None,9,64,0 pos,Y,0,1,3,23,136,N,Healthy,41,Normal,NO
+M,50,None,7,66,A pos,N,4,1,1,23,130,N,Healthy,40,Normal,NO
+M,50,None,4,75,B pos,Y,4,1,4,22,208,N,Healthy,44,Normal,NO
+F,50,None,6,65,A pos,N,7,3,6,37,114,Y,Type 2,38,Normal,NO
+M,50,None,7,67,B pos,N,3,2,2,21,136,Y,Type 2,41,Anormalities,YES
+M,50,None,9,61,B pos,Y,0,1,1,28,100,Y,Type 1,38,Normal,NO
+M,50,None,1,62,0 pos,Y,0,3,3,29,100,Y,Type 1,39,Normal,NO
+F,50,Often,2,67,0 pos,N,4,1,0,20,155,N,Healthy,38,Normal,NO
+M,50,Often,3,70,A pos,N,10,1,6,22,138,N,Healthy,42,Normal,NO
+M,50,Often,0,57,0 pos,N,5,1,2,23,120,N,Healthy,43,Normal,NO
+F,50,Often,3,66,B pos,Y,0,1,9,20,114,N,Healthy,42,Normal,NO
+M,50,Often,0,56,B pos,Y,0,1,1,21,146,N,Healthy,39,Normal,NO
+F,50,Often,9,61,0 pos,N,3,1,0,20,167,N,Healthy,37,Anormalities,NO
+M,50,Often,7,62,A pos,N,0,1,2,19,152,N,Healthy,42,Normal,NO
+F,50,Often,5,69,B pos,Y,10,6,8,28,138,Y,Healthy,43,Normal,OBS
+F,50,Periodic,10,60,A pos,N,3,1,5,25,125,N,Healthy,38,Normal,NO
+M,50,Periodic,0,69,0 pos,N,3,1,10,20,131,N,Healthy,40,Normal,NO
+M,50,Periodic,10,71,0 pos,Y,3,1,0,24,111,N,Healthy,43,Normal,NO
+F,50,Periodic,0,61,A pos,N,0,1,0,23,171,N,Healthy,41,Normal,NO
+F,50,Periodic,10,58,0 pos,Y,6,1,9,22,159,N,Healthy,40,Normal,YES
+M,50,None,8,56,A pos,Y,0,6,7,28,145,Y,Healthy,42,Anormalities,OBS
+M,50,None,6,66,0 pos,Y,6,1,9,31,145,Y,Healthy,41,Anormalities,OBS
+M,50,None,2,62,A pos,Y,0,1,5,32,113,Y,Type 1,41,Anormalities,OBS
+M,50,None,0,75,0 pos,Y,9,1,7,31,153,Y,Type 1,40,Anormalities,OBS
+M,50,Often,5,59,B pos,Y,2,2,7,23,151,N,Healthy,38,Anormalities,OBS
+M,50,Periodic,10,70,0 pos,Y,0,2,5,30,105,Y,Healthy,40,Normal,NO
+M,50,Often,0,67,B pos,Y,0,1,4,29,115,Y,Type 2,38,Anormalities,OBS
+M,50,Periodic,8,63,A pos,Y,0,1,4,33,147,Y,Healthy,40,Anormalities,OBS
+F,50,Periodic,1,63,B pos,N,0,1,0,20,153,N,Type 1,42,Normal,NO
+F,50,Periodic,0,69,0 pos,Y,2,1,7,24,143,N,Type 2,42,Normal,YES
+F,50,Periodic,6,67,0 pos,N,6,1,6,37,123,Y,Type 2,39,Anormalities,OBS
+M,50,Periodic,1,74,B pos,N,5,1,1,29,146,Y,Type 2,43,Anormalities,YES
+M,50,Periodic,10,62,0 pos,Y,1,1,10,35,131,Y,Type 1,41,Normal,OBS
+F,51,None,0,70,0 pos,N,0,1,0,22,127,N,Healthy,39,Normal,NO
+F,51,None,6,67,B pos,N,0,1,3,21,114,N,Healthy,42,Normal,NO
+F,51,None,7,67,A pos,N,5,1,7,23,124,N,Healthy,39,Normal,NO
+F,51,None,8,58,B pos,N,0,1,2,21,109,N,Healthy,41,Normal,OBS
+F,51,None,3,58,B pos,Y,0,2,3,18,157,N,Healthy,37,Normal,NO
+M,51,None,10,72,A pos,N,4,1,0,21,157,N,Healthy,42,Normal,NO
+F,51,None,0,69,B pos,Y,0,1,7,24,130,N,Healthy,39,Normal,NO
+M,51,None,0,71,0 pos,Y,15,1,0,23,157,N,Healthy,43,Normal,NO
+F,51,None,5,58,A pos,N,6,1,2,24,124,Y,Type 2,39,Anormalities,YES
+M,51,None,6,71,B pos,N,5,1,6,29,109,Y,Type 2,38,Normal,NO
+F,51,None,0,78,A pos,Y,7,1,4,33,135,Y,Type 1,39,Normal,NO
+M,51,Often,7,74,A pos,N,0,1,4,25,151,N,Healthy,40,Normal,NO
+M,51,Often,2,73,A pos,Y,0,1,9,21,138,N,Healthy,41,Normal,NO
+F,51,Often,9,59,A pos,N,3,1,0,25,209,N,Healthy,40,Anormalities,NO
+F,51,Often,5,61,B pos,N,4,2,6,23,159,N,Healthy,42,Normal,NO
+F,51,Often,0,60,0 pos,Y,2,1,0,22,130,Y,Healthy,41,Normal,NO
+F,51,Often,10,59,B pos,N,2,1,4,23,126,Y,Type 2,39,Anormalities,OBS
+F,51,Often,2,65,B pos,N,0,1,5,33,131,Y,Type 2,42,Anormalities,YES
+F,51,Often,9,68,B pos,N,0,3,9,35,146,Y,Type 2,39,Normal,NO
+M,51,Often,8,55,0 pos,N,0,1,2,25,126,Y,Type 1,39,Normal,NO
+M,51,Often,0,66,B pos,N,0,6,1,35,121,Y,Type 1,38,Normal,NO
+M,51,Often,1,65,A pos,Y,3,1,2,31,147,Y,Type 2,40,Normal,OBS
+M,51,Periodic,0,64,0 pos,Y,0,1,1,26,142,N,Healthy,39,Normal,NO
+M,51,Periodic,9,71,A pos,Y,0,1,2,23,136,N,Healthy,42,Normal,NO
+M,51,Periodic,9,63,B pos,N,1,1,7,22,124,N,Healthy,40,Normal,NO
+F,51,Periodic,9,74,B pos,N,4,1,6,21,136,N,Healthy,43,Normal,NO
+M,51,Periodic,0,67,A pos,N,0,1,7,22,142,N,Healthy,40,Normal,NO
+F,51,Periodic,10,67,B pos,Y,1,1,2,20,206,N,Healthy,37,Normal,NO
+F,51,None,5,67,A pos,Y,7,1,3,23,139,N,Healthy,41,Anormalities,OBS
+M,51,None,10,65,B pos,Y,0,1,7,30,139,Y,Type 1,39,Anormalities,OBS
+F,51,None,4,65,A pos,Y,3,4,8,31,127,Y,Type 2,40,Anormalities,YES
+F,51,Periodic,10,62,0 pos,N,0,1,9,23,130,Y,Type 1,41,Normal,NO
+M,51,Often,3,73,0 pos,Y,6,1,1,22,160,N,Type 1,40,Anormalities,YES
+M,51,Often,9,63,B pos,Y,1,6,1,33,97,Y,Healthy,41,Anormalities,YES
+F,51,Periodic,7,65,0 pos,Y,5,3,3,31,154,Y,Type 1,41,Anormalities,YES
+M,51,Periodic,10,61,B pos,N,0,1,6,37,116,Y,Type 2,39,Normal,OBS
+F,51,Often,5,68,B pos,N,1,2,10,28,129,Y,Type 1,40,Anormalities,YES
+M,51,Periodic,0,63,0 pos,N,0,3,3,37,137,Y,Type 2,41,Normal,OBS
+M,51,Periodic,2,74,B pos,N,0,2,10,22,111,Y,Healthy,39,Normal,YES
+M,51,Periodic,10,59,0 pos,Y,5,3,5,40,116,Y,Type 2,41,Normal,OBS
+M,52,None,3,68,A pos,N,1,1,4,24,135,N,Healthy,40,Anormalities,OBS
+F,52,None,5,69,0 pos,N,0,1,1,25,143,N,Healthy,37,Normal,NO
+M,52,None,10,58,0 pos,N,3,1,3,22,120,N,Healthy,44,Normal,NO
+F,52,None,4,65,A pos,N,9,1,5,26,120,N,Healthy,40,Normal,NO
+M,52,None,8,66,A pos,N,5,1,0,32,154,Y,Healthy,41,Anormalities,OBS
+M,52,None,0,65,B pos,Y,6,6,3,20,112,Y,Type 2,37,Normal,OBS
+F,52,None,10,64,A pos,N,0,1,4,28,164,Y,Type 1,44,Normal,NO
+F,52,None,2,52,B pos,N,0,6,6,33,118,Y,Healthy,39,Normal,NO
+M,52,None,7,73,0 pos,N,1,3,9,30,118,Y,Type 1,41,Anormalities,YES
+M,52,None,0,66,A pos,Y,2,2,5,34,154,Y,Type 1,42,Normal,OBS
+F,52,None,10,65,B pos,Y,3,4,0,29,107,Y,Healthy,37,Normal,NO
+F,52,Often,3,64,A pos,Y,0,1,0,23,119,N,Healthy,43,Normal,NO
+F,52,Often,5,68,A pos,N,0,1,6,23,126,N,Type 2,42,Normal,NO
+M,52,Often,6,65,0 pos,N,3,1,4,21,134,N,Healthy,40,Normal,NO
+M,52,Often,3,67,0 pos,Y,0,1,0,23,201,N,Healthy,37,Normal,NO
+M,52,Often,0,63,A pos,Y,0,1,4,24,112,N,Healthy,43,Normal,NO
+F,52,Often,6,60,B pos,N,0,1,10,23,111,N,Healthy,42,Normal,NO
+F,52,Often,5,71,A pos,N,2,2,3,23,205,N,Healthy,43,Normal,NO
+M,52,Often,2,66,A pos,Y,0,1,1,26,143,Y,Type 1,43,Normal,YES
+F,52,Often,7,61,A pos,N,3,6,1,34,95,Y,Healthy,43,Normal,NO
+F,52,Often,10,54,0 pos,N,5,1,8,33,115,Y,Healthy,40,Normal,NO
+F,52,Periodic,10,69,A pos,N,0,1,0,23,126,N,Healthy,37,Normal,NO
+M,52,Periodic,10,63,B pos,N,4,1,2,25,158,N,Healthy,39,Normal,YES
+F,52,Periodic,0,60,B pos,N,6,1,0,22,152,N,Healthy,42,Normal,YES
+F,52,Periodic,10,63,A pos,N,1,1,7,20,126,N,Healthy,40,Normal,YES
+M,52,Periodic,0,62,B pos,N,0,1,2,24,133,N,Healthy,37,Normal,NO
+F,52,Periodic,10,58,0 pos,Y,9,1,10,28,151,N,Healthy,45,Normal,YES
+M,52,Periodic,2,73,0 pos,Y,3,1,6,24,206,N,Healthy,43,Normal,NO
+M,52,Periodic,9,60,A pos,Y,0,1,5,25,115,N,Healthy,41,Normal,NO
+M,52,Periodic,10,67,0 pos,Y,1,1,6,22,147,N,Healthy,41,Normal,NO
+F,52,Periodic,5,70,A pos,Y,6,1,0,28,106,Y,Healthy,42,Normal,NO
+F,52,Periodic,10,80,A pos,Y,0,3,4,29,101,Y,Healthy,40,Normal,NO
+M,52,None,0,68,B pos,Y,0,1,0,27,155,Y,Type 1,40,Anormalities,YES
+M,52,None,10,69,A pos,Y,0,1,10,29,119,Y,Healthy,40,Anormalities,NO
+F,52,Often,5,67,0 pos,Y,0,1,0,24,163,N,Type 2,40,Anormalities,YES
+M,52,Often,10,64,0 pos,Y,0,1,0,28,123,Y,Type 1,39,Anormalities,YES
+F,52,Periodic,8,68,A pos,Y,0,1,7,24,119,N,Healthy,43,Anormalities,YES
+M,52,Periodic,3,66,0 pos,N,2,1,1,29,102,Y,Type 2,39,Anormalities,OBS
+M,52,Periodic,5,66,A pos,N,0,5,5,25,119,Y,Type 1,38,Anormalities,OBS
+F,52,Periodic,0,68,B pos,N,9,2,9,28,118,Y,Healthy,39,Anormalities,OBS
+F,52,Periodic,10,71,0 pos,Y,2,6,7,36,146,Y,Healthy,39,Normal,NO
+M,52,Periodic,10,73,A pos,Y,0,2,0,32,148,Y,Type 2,40,Normal,YES
+M,53,None,6,63,0 pos,N,0,1,7,22,107,N,Healthy,41,Normal,NO
+F,53,None,10,74,B pos,N,0,2,10,22,148,N,Healthy,38,Normal,NO
+F,53,None,0,65,0 pos,Y,0,1,3,26,207,N,Healthy,39,Normal,NO
+M,53,None,5,68,B pos,N,0,1,0,33,128,Y,Type 1,41,Anormalities,YES
+F,53,None,1,63,B pos,Y,1,1,1,26,129,Y,Healthy,40,Normal,NO
+M,53,None,4,74,B pos,Y,0,6,7,34,110,Y,Healthy,41,Normal,NO
+M,53,None,8,61,B pos,N,0,3,9,25,120,Y,Healthy,38,Normal,NO
+F,53,None,4,66,B pos,N,0,6,2,24,121,Y,Healthy,41,Anormalities,OBS
+F,53,None,6,65,B pos,N,3,3,9,33,99,Y,Healthy,39,Anormalities,NO
+M,53,Often,7,57,0 pos,Y,0,1,5,22,135,N,Healthy,41,Normal,NO
+F,53,Often,9,72,0 pos,N,0,1,6,24,210,N,Healthy,43,Normal,NO
+M,53,Often,6,71,A pos,Y,0,1,1,25,167,N,Healthy,39,Normal,NO
+F,53,Often,7,67,B pos,N,0,6,5,31,151,Y,Type 1,40,Normal,NO
+M,53,Often,9,71,0 pos,Y,8,3,6,21,140,Y,Type 2,39,Normal,NO
+F,53,Often,5,65,B pos,Y,1,1,5,23,141,Y,Healthy,40,Normal,NO
+F,53,Often,0,61,A pos,N,2,3,5,36,141,Y,Healthy,38,Anormalities,NO
+M,53,Periodic,8,60,B pos,N,0,1,6,24,152,N,Healthy,42,Normal,NO
+M,53,Periodic,5,73,0 pos,N,5,1,10,22,187,N,Healthy,42,Anormalities,NO
+F,53,Periodic,9,66,B pos,N,0,1,0,23,107,N,Healthy,43,Normal,NO
+F,53,None,10,63,A pos,Y,5,1,1,28,143,N,Healthy,37,Anormalities,YES
+M,53,Periodic,3,61,0 pos,Y,2,1,5,34,131,Y,Type 1,41,Normal,OBS
+M,53,Often,0,61,B pos,Y,0,6,1,38,100,Y,Type 1,37,Anormalities,YES
+M,53,Often,9,69,B pos,Y,0,2,10,27,128,Y,Healthy,41,Anormalities,YES
+F,53,Periodic,2,75,0 pos,Y,0,1,5,22,108,Y,Healthy,39,Anormalities,YES
+F,53,Periodic,2,68,0 pos,Y,2,2,10,35,136,Y,Type 1,39,Anormalities,YES
+M,53,Periodic,7,67,A pos,Y,3,6,3,30,161,Y,Type 1,42,Anormalities,YES
+F,53,Often,3,57,A pos,N,0,1,2,31,137,Y,Type 1,38,Anormalities,YES
+F,53,Periodic,7,58,0 pos,N,0,1,5,35,151,Y,Type 2,45,Anormalities,OBS
+F,53,Periodic,9,59,0 pos,Y,0,1,5,31,115,Y,Healthy,42,Normal,NO
+M,54,None,6,57,B pos,Y,4,1,3,25,204,N,Healthy,42,Normal,NO
+M,54,None,6,62,0 pos,Y,0,1,6,22,119,N,Healthy,47,Normal,NO
+M,54,None,0,63,0 pos,N,0,1,10,22,149,N,Healthy,40,Normal,NO
+F,54,None,0,64,B pos,N,5,1,0,24,135,N,Healthy,42,Normal,NO
+F,54,None,0,60,0 pos,N,0,3,0,36,113,Y,Type 2,39,Normal,NO
+M,54,None,8,64,A pos,Y,0,3,9,30,114,Y,Healthy,41,Normal,NO
+M,54,None,9,66,0 pos,N,0,1,2,39,114,Y,Healthy,41,Normal,NO
+M,54,None,9,64,0 pos,N,5,6,0,29,137,Y,Type 2,37,Anormalities,OBS
+M,54,None,1,65,0 pos,Y,0,5,2,23,73,Y,Type 1,43,Normal,NO
+M,54,Often,0,70,B pos,Y,6,1,9,22,161,N,Healthy,39,Normal,NO
+F,54,Often,3,70,B pos,Y,2,1,10,20,150,Y,Type 2,38,Normal,YES
+F,54,Often,6,61,B pos,N,1,1,7,25,108,N,Healthy,37,Normal,NO
+M,54,Often,10,72,A pos,N,3,1,10,20,134,Y,Type 2,39,Normal,NO
+M,54,Often,10,53,B pos,Y,3,5,0,29,158,Y,Type 2,43,Normal,YES
+F,54,Often,9,63,0 pos,N,0,1,3,34,114,Y,Healthy,41,Normal,NO
+M,54,Periodic,4,61,B pos,N,0,1,10,26,130,N,Healthy,43,Normal,OBS
+M,54,Periodic,0,69,B pos,N,0,1,5,25,109,N,Healthy,44,Normal,OBS
+M,54,Periodic,0,71,A pos,N,5,1,9,24,134,N,Healthy,40,Normal,NO
+M,54,Periodic,5,67,A pos,N,0,1,5,22,101,N,Healthy,40,Normal,NO
+F,54,Periodic,3,62,A pos,Y,0,1,8,26,125,N,Healthy,41,Normal,NO
+F,54,Periodic,10,60,A pos,Y,0,1,10,26,97,N,Healthy,43,Normal,NO
+M,54,Periodic,4,70,0 pos,N,0,1,4,23,132,N,Healthy,44,Normal,NO
+M,54,Periodic,1,62,B pos,N,6,1,5,26,151,N,Healthy,39,Normal,NO
+F,54,Periodic,7,63,A pos,Y,6,1,7,23,115,N,Healthy,37,Normal,NO
+M,54,Periodic,0,72,0 pos,N,0,3,2,23,130,Y,Type 1,41,Normal,OBS
+M,54,Periodic,4,65,A pos,N,2,5,1,37,130,Y,Type 2,41,Normal,YES
+M,54,Periodic,9,68,0 pos,Y,1,3,1,26,131,Y,Healthy,40,Normal,OBS
+F,54,Often,3,68,A pos,Y,0,1,10,30,93,Y,Type 2,39,Anormalities,YES
+F,54,Often,10,62,A pos,Y,0,6,1,40,119,Y,Type 1,41,Anormalities,YES
+F,54,Often,10,72,0 pos,N,0,6,5,31,152,Y,Type 1,40,Anormalities,YES
+F,54,Periodic,5,65,B pos,Y,0,1,8,29,125,Y,Healthy,44,Anormalities,YES
+F,54,Periodic,4,65,B pos,N,2,6,10,31,119,Y,Type 1,40,Anormalities,YES
+M,54,Periodic,8,58,B pos,Y,4,1,5,30,144,Y,Type 1,40,Anormalities,YES
+M,54,Periodic,7,68,0 pos,Y,0,1,10,32,114,Y,Type 1,38,Anormalities,YES
+M,55,None,10,59,B pos,Y,0,2,1,19,185,N,Healthy,40,Normal,NO
+M,55,None,7,69,B pos,Y,6,1,4,23,118,N,Healthy,42,Normal,NO
+F,55,None,8,69,B pos,N,5,1,9,23,131,N,Healthy,40,Normal,NO
+F,55,None,8,68,B pos,Y,1,1,9,22,136,N,Healthy,37,Normal,NO
+M,55,None,9,68,0 pos,N,0,2,9,25,135,N,Healthy,37,Normal,NO
+F,55,None,8,65,B pos,Y,0,1,5,24,144,N,Healthy,38,Normal,NO
+M,55,None,9,70,B pos,Y,0,2,9,22,128,N,Healthy,45,Normal,NO
+M,55,None,10,68,A pos,N,0,5,10,29,146,Y,Healthy,41,Normal,NO
+M,55,None,7,70,0 pos,N,0,1,6,31,119,Y,Type 1,39,Normal,NO
+M,55,Often,4,64,A pos,N,0,2,4,24,169,N,Healthy,40,Normal,NO
+M,55,Often,2,63,A pos,N,0,1,7,23,166,N,Healthy,39,Normal,NO
+M,55,Often,8,60,A pos,Y,0,1,2,24,172,N,Healthy,41,Normal,YES
+M,55,Often,2,69,A pos,N,3,1,1,20,141,N,Healthy,38,Normal,NO
+M,55,Often,7,54,A pos,Y,6,1,9,40,134,Y,Type 2,38,Normal,YES
+F,55,Often,5,66,A pos,N,0,2,4,38,127,Y,Healthy,42,Normal,NO
+M,55,Often,4,59,B pos,Y,0,6,2,32,106,Y,Healthy,39,Normal,NO
+F,55,Often,4,55,0 pos,N,1,1,0,23,153,Y,Healthy,40,Normal,NO
+M,55,Periodic,10,66,0 pos,N,5,1,5,22,159,N,Healthy,42,Normal,NO
+F,55,Periodic,1,64,B pos,N,0,1,4,25,182,N,Healthy,40,Anormalities,NO
+M,55,Periodic,5,62,A pos,Y,0,1,7,25,102,N,Healthy,37,Normal,NO
+F,55,Periodic,0,67,B pos,N,2,1,4,37,169,Y,Healthy,39,Anormalities,NO
+F,55,Periodic,8,67,0 pos,N,0,6,7,28,131,Y,Healthy,37,Normal,YES
+F,55,None,6,66,0 pos,N,5,5,2,18,137,Y,Type 1,40,Anormalities,YES
+F,55,Periodic,10,60,B pos,N,7,1,7,33,117,Y,Type 2,37,Anormalities,YES
+M,55,Often,10,68,0 pos,Y,5,4,5,26,142,Y,Type 2,41,Anormalities,YES
+M,55,Often,10,74,0 pos,Y,11,1,6,23,122,N,Healthy,40,Anormalities,YES
+F,55,Periodic,6,69,B pos,Y,0,1,6,24,148,N,Healthy,37,Anormalities,OBS
+M,56,None,2,68,B pos,Y,1,2,7,24,115,N,Healthy,45,Normal,NO
+M,56,None,0,68,A pos,Y,10,1,4,21,203,N,Healthy,42,Normal,NO
+M,56,None,10,55,B pos,Y,0,1,4,24,140,N,Healthy,40,Normal,NO
+F,56,Often,2,61,B pos,Y,11,1,0,27,142,N,Healthy,41,Normal,NO
+M,56,Often,0,67,0 pos,Y,0,2,5,22,120,N,Healthy,41,Normal,NO
+M,56,Often,3,64,B pos,N,1,3,4,34,142,Y,Type 1,40,Normal,YES
+F,56,Often,5,64,B pos,Y,3,1,5,27,109,Y,Type 1,38,Normal,YES
+M,56,Often,6,58,B pos,N,0,1,0,19,141,Y,Type 2,39,Normal,YES
+M,56,Often,0,60,B pos,N,0,1,1,27,137,Y,Healthy,42,Anormalities,YES
+M,56,Periodic,10,63,B pos,Y,2,1,2,23,119,N,Healthy,44,Normal,NO
+M,56,Periodic,10,64,A pos,Y,0,1,1,22,159,N,Healthy,42,Normal,YES
+F,56,Periodic,10,63,0 pos,Y,6,2,9,20,131,N,Healthy,39,Normal,YES
+F,56,Periodic,0,64,A pos,N,7,6,10,24,116,Y,Healthy,37,Normal,YES
+F,56,Periodic,4,66,0 pos,N,0,1,7,33,167,Y,Type 1,41,Normal,OBS
+F,56,Often,9,67,A pos,N,0,6,4,20,128,Y,Type 1,39,Anormalities,YES
+M,56,None,7,67,B pos,Y,1,1,6,23,111,N,Healthy,39,Anormalities,OBS
+F,56,Often,10,64,B pos,Y,0,1,8,32,109,Y,Type 2,41,Anormalities,YES
+F,56,Periodic,10,66,B pos,Y,0,1,7,37,138,Y,Healthy,42,Anormalities,YES
+M,57,None,3,70,B pos,N,3,1,9,28,110,N,Healthy,41,Normal,NO
+M,57,None,10,67,0 pos,Y,3,1,8,24,113,N,Healthy,41,Normal,NO
+M,57,None,10,64,A pos,Y,4,2,0,27,148,N,Healthy,37,Normal,NO
+M,57,None,3,60,0 pos,N,0,2,0,22,114,N,Healthy,37,Normal,NO
+F,57,None,10,59,B pos,Y,0,4,10,23,122,Y,Type 1,39,Normal,NO
+M,57,None,2,69,B pos,Y,0,1,4,24,152,Y,Type 1,37,Normal,NO
+M,57,Often,0,56,B pos,Y,0,1,1,23,154,N,Healthy,40,Normal,NO
+M,57,Often,10,57,0 pos,N,0,1,3,25,136,N,Healthy,37,Normal,NO
+M,57,Often,5,65,B pos,N,0,1,2,18,124,N,Healthy,40,Normal,NO
+M,57,Often,4,57,A pos,Y,1,1,10,32,110,Y,Type 1,38,Normal,YES
+F,57,Often,2,60,0 pos,Y,0,1,0,27,124,Y,Healthy,42,Normal,NO
+M,57,Often,1,62,0 pos,N,0,5,10,27,114,Y,Healthy,37,Normal,NO
+M,57,Often,10,60,A pos,N,0,4,10,35,136,Y,Healthy,39,Anormalities,NO
+F,57,Periodic,10,66,A pos,N,0,1,1,25,126,N,Healthy,37,Normal,NO
+M,57,Periodic,4,63,0 pos,Y,0,1,1,24,144,N,Healthy,40,Normal,NO
+M,57,Periodic,5,77,0 pos,Y,6,2,4,23,139,N,Healthy,39,Normal,NO
+M,57,Periodic,7,63,0 pos,Y,3,6,10,36,142,Y,Type 2,44,Normal,OBS
+F,57,Often,7,68,A pos,Y,1,6,4,33,124,Y,Type 1,41,Anormalities,YES
+F,57,Periodic,10,62,B pos,Y,0,1,1,19,121,N,Healthy,37,Anormalities,OBS
+F,57,Periodic,10,60,B pos,N,0,1,1,27,152,Y,Type 1,41,Anormalities,YES
+M,58,None,0,63,B pos,N,0,4,6,22,124,Y,Type 1,38,Anormalities,YES
+M,58,None,10,58,B pos,Y,1,3,6,24,120,Y,Healthy,39,Normal,NO
+F,58,None,5,67,A pos,Y,0,3,8,27,122,Y,Type 1,42,Normal,NO
+F,58,Often,6,61,0 pos,N,0,1,7,23,105,N,Healthy,37,Anormalities,NO
+M,58,Often,2,62,A pos,Y,1,4,3,25,116,Y,Healthy,38,Normal,YES
+M,58,Periodic,3,68,0 pos,N,1,1,0,22,127,N,Type 1,42,Normal,YES
+F,58,Periodic,9,60,B pos,N,5,6,2,33,133,Y,Type 2,37,Anormalities,YES
+F,58,Periodic,4,74,A pos,N,7,1,6,24,148,Y,Healthy,41,Anormalities,OBS
+F,58,Periodic,5,61,B pos,N,4,1,0,43,111,Y,Type 1,41,Anormalities,YES
+F,58,Often,10,71,A pos,Y,1,1,10,33,97,Y,Type 2,38,Anormalities,YES
+F,59,None,10,67,A pos,Y,0,1,10,24,157,N,Healthy,45,Normal,NO
+F,59,None,6,70,A pos,Y,4,1,0,24,126,N,Type 1,40,Normal,NO
+M,59,None,3,67,0 pos,Y,3,1,7,23,126,N,Healthy,43,Normal,NO
+F,59,None,3,58,B pos,Y,10,1,7,25,136,N,Healthy,37,Normal,NO
+M,59,None,0,76,A pos,N,8,1,2,22,132,N,Type 1,41,Normal,NO
+F,59,Often,0,65,B pos,N,0,1,4,23,107,N,Healthy,42,Normal,YES
+M,59,Often,5,73,B pos,Y,1,1,6,25,163,N,Healthy,37,Normal,NO
+M,59,Periodic,0,67,A pos,N,7,1,6,22,128,N,Healthy,42,Normal,NO
+M,59,Periodic,0,65,0 pos,Y,0,1,9,25,152,Y,Healthy,40,Normal,NO
+F,59,Periodic,6,66,B pos,Y,2,1,6,34,151,Y,Type 2,38,Normal,YES
+M,59,Periodic,4,68,B pos,N,0,3,5,22,128,Y,Type 2,41,Anormalities,YES
+M,59,None,10,74,0 pos,Y,0,1,7,22,152,Y,Type 2,39,Anormalities,YES
+F,60,None,5,64,0 pos,N,0,1,7,23,124,N,Healthy,37,Normal,NO
+F,60,None,6,68,0 pos,Y,4,1,1,23,144,N,Healthy,37,Normal,NO
+F,60,None,8,70,A pos,N,0,1,5,23,166,N,Healthy,37,Normal,NO
+F,60,None,5,67,0 pos,Y,5,1,2,25,123,N,Healthy,38,Normal,NO
+F,60,None,0,73,B pos,N,0,1,1,23,151,Y,Healthy,40,Anormalities,YES
+F,60,None,0,69,B pos,N,2,3,2,32,150,Y,Type 1,42,Normal,NO
+M,60,Often,3,53,A pos,Y,10,1,0,23,144,Y,Type 2,40,Normal,YES
+F,60,Often,10,66,B pos,N,2,1,5,32,88,Y,Type 2,42,Normal,YES
+M,60,Often,7,62,0 pos,N,1,1,8,34,146,Y,Healthy,43,Normal,NO
+M,60,Often,7,64,B pos,N,0,5,7,24,123,Y,Healthy,43,Anormalities,NO
+M,60,Periodic,0,58,B pos,N,0,1,1,24,103,N,Healthy,38,Normal,NO
+M,60,Periodic,2,66,A pos,N,0,1,10,23,127,N,Healthy,41,Normal,NO
+F,60,Periodic,10,69,B pos,Y,0,1,5,27,113,Y,Type 1,38,Normal,YES
+M,60,Periodic,3,65,0 pos,N,2,2,3,28,146,Y,Type 1,39,Normal,OBS
+F,60,Periodic,4,58,A pos,Y,0,1,3,29,128,Y,Type 1,37,Anormalities,YES
+F,60,Periodic,5,66,0 pos,Y,0,6,3,31,146,Y,Type 2,41,Anormalities,YES
+M,60,None,8,64,A pos,Y,11,1,4,30,139,Y,Healthy,42,Anormalities,YES
+F,61,None,6,72,A pos,Y,0,1,7,23,107,N,Healthy,41,Normal,NO
+M,61,Periodic,10,60,B pos,N,0,1,4,24,130,N,Healthy,40,Normal,NO
+M,61,Often,0,59,B pos,N,0,1,3,22,138,N,Healthy,38,Normal,NO
+F,61,Often,10,66,B pos,N,4,1,6,22,119,N,Healthy,41,Normal,NO
+M,62,None,9,58,A pos,N,3,1,2,22,124,N,Healthy,40,Normal,NO
+F,62,None,2,70,A pos,N,0,2,8,22,122,N,Healthy,39,Normal,NO
+M,62,None,0,58,A pos,Y,6,1,10,22,141,N,Healthy,38,Normal,NO
+F,62,None,3,73,A pos,Y,0,1,6,24,152,N,Healthy,40,Normal,NO
+M,62,None,0,61,B pos,N,0,1,9,29,166,Y,Type 2,39,Normal,NO
+M,62,Often,1,75,0 pos,Y,0,1,3,28,113,N,Type 2,41,Normal,NO
+M,62,Often,5,57,B pos,N,4,2,4,25,133,N,Healthy,38,Normal,NO
+M,62,Often,4,62,0 pos,Y,9,1,7,24,111,N,Healthy,40,Normal,YES
+F,62,Often,5,73,B pos,N,0,1,10,31,120,Y,Healthy,40,Normal,NO
+F,62,Periodic,7,60,A pos,N,7,1,9,25,153,N,Healthy,40,Normal,NO
+F,62,Often,10,69,A pos,Y,0,3,2,22,134,Y,Type 2,40,Anormalities,YES
+M,62,Often,6,62,A pos,Y,4,3,8,36,95,Y,Type 1,39,Anormalities,YES
+M,62,Periodic,4,64,0 pos,Y,0,1,3,28,135,Y,Healthy,40,Anormalities,YES
+F,63,None,8,66,B pos,N,0,1,4,24,121,N,Healthy,37,Normal,NO
+M,63,Often,6,58,B pos,Y,3,1,7,22,152,N,Healthy,39,Normal,NO
+M,63,Often,10,68,0 pos,N,0,3,8,33,124,Y,Type 2,37,Normal,YES
+M,63,Periodic,0,65,0 pos,N,0,6,10,23,113,Y,Healthy,42,Anormalities,NO
+M,63,Periodic,0,74,B pos,Y,8,1,8,22,105,Y,Type 2,39,Normal,YES
+M,63,Periodic,10,64,A pos,Y,0,1,9,41,144,Y,Healthy,40,Anormalities,YES
+M,64,Often,0,62,0 pos,Y,4,1,8,23,137,Y,Type 1,43,Normal,OBS
+M,64,Periodic,3,69,B pos,Y,0,1,3,35,151,Y,Type 1,39,Normal,OBS
+M,64,Periodic,10,67,A pos,Y,0,2,2,27,152,Y,Type 1,37,Normal,YES
+F,64,Often,3,64,A pos,N,8,1,6,30,121,Y,Type 2,40,Anormalities,YES
+M,65,None,5,62,0 pos,N,4,1,7,22,131,N,Healthy,37,Normal,NO
+M,65,None,1,55,B pos,Y,3,1,8,21,138,N,Type 2,37,Normal,NO
+F,65,Often,6,68,0 pos,Y,0,2,6,21,139,N,Healthy,37,Normal,NO
+F,65,Often,10,61,0 pos,N,0,1,4,23,101,N,Healthy,43,Normal,NO
+M,65,Often,8,78,A pos,Y,0,1,0,25,120,N,Healthy,39,Normal,NO
+M,65,Often,0,59,0 pos,Y,4,3,0,21,147,Y,Type 1,41,Normal,NO
+F,65,None,0,57,0 pos,Y,0,1,5,24,124,Y,Type 2,40,Anormalities,YES
+F,66,Often,10,61,0 pos,Y,5,1,6,24,147,N,Healthy,39,Normal,NO
+F,66,Often,10,61,A pos,Y,0,1,10,24,122,N,Healthy,44,Normal,NO
+M,66,None,10,68,B pos,Y,0,1,8,28,100,Y,Healthy,41,Anormalities,NO
+F,66,Periodic,9,64,B pos,Y,0,1,8,22,132,Y,Type 2,37,Normal,YES
+F,66,Often,4,65,0 pos,Y,0,1,5,27,153,Y,Healthy,47,Normal,NO
+F,66,Periodic,7,67,0 pos,Y,0,1,10,30,177,Y,Type 1,41,Anormalities,YES
+M,67,Periodic,8,67,B pos,N,2,1,10,23,121,N,Healthy,37,Normal,NO
+M,67,Often,5,52,0 pos,N,0,1,7,25,162,N,Healthy,39,Normal,NO
+F,67,Often,0,60,B pos,N,0,1,10,22,127,N,Healthy,37,Anormalities,NO
+M,67,None,3,72,0 pos,N,0,6,2,33,129,Y,Type 1,39,Normal,NO
+M,68,None,9,68,A pos,N,0,1,7,22,141,N,Healthy,39,Normal,NO
+M,68,None,10,61,A pos,N,9,6,4,23,118,Y,Type 1,41,Normal,NO
+F,68,Often,9,58,A pos,N,0,2,10,26,153,Y,Healthy,37,Normal,YES
+F,68,None,0,66,A pos,Y,10,6,8,27,130,Y,Type 2,40,Anormalities,YES
+M,69,Often,8,62,B pos,Y,0,2,5,32,122,Y,Healthy,40,Anormalities,OBS
+M,70,None,6,67,A pos,Y,3,1,2,19,149,N,Healthy,45,Normal,NO
+M,70,Often,9,60,B pos,N,0,1,2,24,166,N,Healthy,38,Normal,NO
+M,70,None,10,61,A pos,Y,4,6,6,31,145,Y,Healthy,40,Anormalities,NO
+F,70,Periodic,0,66,B pos,N,0,6,5,21,122,Y,Type 1,42,Normal,OBS
+M,72,Often,8,70,B pos,Y,6,1,6,24,230,N,Healthy,40,Anormalities,NO
+F,73,Often,3,58,A pos,N,8,1,4,22,209,N,Healthy,40,Anormalities,NO
+F,73,Periodic,2,63,A pos,Y,0,1,4,31,160,Y,Type 2,39,Normal,YES
+F,74,Periodic,9,62,0 pos,N,2,1,7,24,140,N,Healthy,39,Normal,NO
+M,77,None,0,72,0 pos,N,7,5,0,33,140,Y,Healthy,41,Normal,NO
+F,78,Periodic,5,64,B pos,Y,3,1,5,21,134,N,Healthy,41,Normal,NO
+M,85,None,4,55,B pos,N,0,1,1,23,134,N,Healthy,42,Normal,NO
