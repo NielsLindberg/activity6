@@ -52,4 +52,4 @@ scikit-learn==0.19.1
 scipy==1.0.0
 simplejson==3.13.2
 tensorboard==1.7.0
-tensorflow==1.7.0
+tensorflow-gpu==1.7.0
